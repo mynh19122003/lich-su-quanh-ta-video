@@ -1,0 +1,53 @@
+{
+ "id": "tap-1-ban-2-phut",
+ "name": "Tập 1 - Hiệp định Giơnevơ (bản 2 phút)",
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "assets": [],
+ "tracks": [
+  {
+   "id": "ae5481ce",
+   "kind": "text",
+   "name": "Chữ 1",
+   "items": []
+  },
+  {
+   "id": "b51d65ff",
+   "kind": "visual",
+   "name": "Hình 1",
+   "items": [
+    {
+     "id": "58ac237a",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 0,
+     "durationInFrames": 792,
+     "trimStart": 0
+    },
+    {
+     "id": "88d281da",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 792,
+     "durationInFrames": 3183,
+     "trimStart": 3622,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 8
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 24
+     }
+    }
+   ]
+  },
+  {
+   "id": "c0b10e80",
+   "kind": "audio",
+   "name": "Âm thanh 1",
+   "items": []
+  }
+ ]
+}

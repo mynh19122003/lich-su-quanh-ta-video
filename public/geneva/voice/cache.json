@@ -1,0 +1,807 @@
+{
+ "00-00.mp3": {
+  "key": "148ac0b4cf4e76432648b8afab6e64cf88f9ca38",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 7.8314810999999995,
+    "text": "Năm 1954, quân và dân Việt Nam vừa thắng một trận lớn, đúng lúc cả thế giới đang ngồi lại với nhau để họp bàn về Đông Dương."
+   }
+  ]
+ },
+ "00-01.mp3": {
+  "key": "9b3fd73aa06a4a2f46f1e3170548648fc14b1590",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.8615739000000002,
+    "text": "Và kết quả của cuộc họp đó là... đất nước bị chia làm đôi."
+   }
+  ]
+ },
+ "00-02.mp3": {
+  "key": "4fbb72c2b975766184e15802749f0c7ce04ef9a7",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 1.6972221,
+    "text": "Khoan đã."
+   },
+   {
+    "start": 1.6472221,
+    "end": 3.8810183,
+    "text": "Thắng trận mà lại bị chia đôi?"
+   },
+   {
+    "start": 3.8810183,
+    "end": 6.4620367000000005,
+    "text": "Nghe có gì đó sai sai đúng không?"
+   }
+  ]
+ },
+ "00-03.mp3": {
+  "key": "1f95515a2be6c706e2aab06abcc4262f4ae23b7d",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 5.6555553,
+    "text": "Để hiểu chuyện này, chúng ta phải quay lại phòng họp ở Giơnevơ, và cả những năm tháng sau đó nữa."
+   }
+  ]
+ },
+ "01-00.mp3": {
+  "key": "1d69b3dd7ae151bd561c72d6734d84676fe5636a",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 1.6537736,
+    "text": "Chào cả lớp."
+   },
+   {
+    "start": 1.6037736,
+    "end": 8.4905664,
+    "text": "Hôm nay chúng ta học bài: Hiệp định Giơnevơ năm 1954, và vì sao cuộc chiến tranh với Mỹ lại xảy ra."
+   }
+  ]
+ },
+ "01-01.mp3": {
+  "key": "6fb8a3a1e106df466973de71ac0be7d66a2d740a",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.9425924,
+    "text": "Bài này hơi dài, nên các bạn chuẩn bị bỏng ngô đi là vừa."
+   }
+  ]
+ },
+ "02-00.mp3": {
+  "key": "087650e58113da82e2b686283d7dbb2ecf38cc8d",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.9865737999999995,
+    "text": "Tháng 9 năm 1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+   }
+  ]
+ },
+ "02-01.mp3": {
+  "key": "9f9c12f9eb28478a46cdf32e0faaf1aa0f3db2ea",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.4912035,
+    "text": "Nhưng chưa vui được bao lâu thì người Pháp quay trở lại."
+   }
+  ]
+ },
+ "02-02.mp3": {
+  "key": "466dc4618c2c957621208fe12eb5d073b322f26e",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 1.3923728000000002,
+    "text": "Bông-giua!"
+   },
+   {
+    "start": 1.3423728,
+    "end": 3.0161015,
+    "text": "Tôi về rồi đây."
+   },
+   {
+    "start": 3.0161015,
+    "end": 5.0605929,
+    "text": "Thuộc địa của tôi vẫn ổn chứ?"
+   }
+  ]
+ },
+ "02-03.mp3": {
+  "key": "685d276dc09f9074ccd8064f3bd21469281e4657",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.1165095000000003,
+    "text": "Ai mời anh về vậy?"
+   }
+  ]
+ },
+ "02-04.mp3": {
+  "key": "2c894dbdf18fce02fbea1b163826afcc3fa41434",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.884722,
+    "text": "Thế là cuộc kháng chiến chống Pháp kéo dài suốt chín năm bắt đầu."
+   }
+  ]
+ },
+ "03-00.mp3": {
+  "key": "1e0dbd528630074c9d144b4e8bd3745de5b80f87",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.0027775,
+    "text": "Trong lúc đó, ở bên kia Thái Bình Dương, nước Mỹ đang rất lo lắng về một thứ gọi là thuyết Đôminô."
+   }
+  ]
+ },
+ "03-01.mp3": {
+  "key": "a36466d5492c7e6b88d02bc963fa1c76585020ee",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 5.8142856,
+    "text": "Nếu Đông Dương theo cộng sản, cả Đông Nam Á sẽ đổ theo như những quân bài đôminô!"
+   }
+  ]
+ },
+ "03-02.mp3": {
+  "key": "10e47a4accd525097d6f672cf9c2a791e3d75813",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.5652776,
+    "text": "Vì vậy Mỹ quyết định rút ví."
+   },
+   {
+    "start": 2.5152776,
+    "end": 8.3486107,
+    "text": "Đến năm 1954, Mỹ gánh gần 80% chi phí chiến tranh của Pháp ở Đông Dương."
+   }
+  ]
+ },
+ "03-03.mp3": {
+  "key": "52c2d83136aba90291135e792c9be6b9152eebdc",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.2927964000000003,
+    "text": "Mẹc-xi, anh bạn."
+   }
+  ]
+ },
+ "03-04.mp3": {
+  "key": "0df32d48c62a338bfd9a6527407139a0723c7ab7",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.6648146,
+    "text": "Nói cách khác: Pháp đánh, còn Mỹ trả tiền."
+   }
+  ]
+ },
+ "04-00.mp3": {
+  "key": "db4e9b2a364806a69fed724901c2ae87ddfe9291",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 7.8199071,
+    "text": "Đầu năm 1954, Pháp xây một tập đoàn cứ điểm cực mạnh ở lòng chảo Điện Biên Phủ, và tin rằng không ai có thể phá nổi."
+   }
+  ]
+ },
+ "04-01.mp3": {
+  "key": "e4c4cc794e0b1705d8235f3ebb54648e119790f9",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 1.7898147,
+    "text": "Họ đã nhầm."
+   },
+   {
+    "start": 1.7398147,
+    "end": 6.35787,
+    "text": "Bộ đội ta kéo pháo lên núi, đào hào bao vây và siết chặt từng cứ điểm."
+   }
+  ]
+ },
+ "04-02.mp3": {
+  "key": "1ef622835ac83a05eb0de23bd5956b518789b88c",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.4194441,
+    "text": "Ngày 7 tháng 5 năm 1954, tướng Đờ Cát-xtơ-ri cùng toàn bộ bộ chỉ huy bị bắt sống."
+   },
+   {
+    "start": 6.3694441,
+    "end": 8.8231477,
+    "text": "Chiến dịch Điện Biên Phủ toàn thắng."
+   }
+  ]
+ },
+ "04-03.mp3": {
+  "key": "21900e53becd9717ed8aaadf4d0dbfe520298c62",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.8012710000000003,
+    "text": "Ừm... hay là chúng ta nói chuyện hòa bình nhé?"
+   }
+  ]
+ },
+ "05-00.mp3": {
+  "key": "376c502eba35cb44e3da230b4498f9db3aa63ea7",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.3847219,
+    "text": "Thật trùng hợp, ngay ngày hôm sau, mùng 8 tháng 5, hội nghị Giơnevơ bắt đầu bàn về vấn đề Đông Dương."
+   }
+  ]
+ },
+ "05-01.mp3": {
+  "key": "71fa3be53a90afc39a006bb41581d3456096b7fd",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 10.1347218,
+    "text": "Ngồi quanh bàn có: Pháp, Việt Nam Dân chủ Cộng hòa, Liên Xô, Anh, Trung Quốc, Mỹ, Lào, Campuchia, và chính quyền Quốc gia Việt Nam của Bảo Đại."
+   }
+  ]
+ },
+ "05-02.mp3": {
+  "key": "63ae01294f89517ef740ce9be271888a1f62d35f",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.7157406,
+    "text": "Anh và Liên Xô làm đồng chủ tịch."
+   }
+  ]
+ },
+ "05-03.mp3": {
+  "key": "105154cc7dc03fdccc67a7d7aceb19feee42656e",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.6765305,
+    "text": "Tôi chỉ đến ngồi xem thôi."
+   },
+   {
+    "start": 2.6265305,
+    "end": 4.8076529,
+    "text": "Đừng để ý đến tôi."
+   }
+  ]
+ },
+ "05-04.mp3": {
+  "key": "2b3a6e0d8b796a6804869407d9ef9c028d7df448",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.2759258,
+    "text": "Ừ, ngồi xem thôi."
+   },
+   {
+    "start": 2.2259258,
+    "end": 5.478240400000001,
+    "text": "Các bạn nhớ câu này nhé, lát nữa sẽ cần đến."
+   }
+  ]
+ },
+ "06-00.mp3": {
+  "key": "40879c17063cefd0e536452c833dd0d039b0045b",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.8685183,
+    "text": "Câu hỏi lớn nhất là: lấy đâu làm ranh giới tạm thời để quân đội hai bên tập kết?"
+   }
+  ]
+ },
+ "06-01.mp3": {
+  "key": "1b50c1eff41000d59725067bd68c99a67aa6088f",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.8122642,
+    "text": "Chúng tôi đề nghị lấy vĩ tuyến 13."
+   }
+  ]
+ },
+ "06-02.mp3": {
+  "key": "dbcc813f1950e9246697250b19e39d11f1509fc2",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 1.3817795000000002,
+    "text": "Không được."
+   },
+   {
+    "start": 1.3317795,
+    "end": 3.047881,
+    "text": "Vĩ tuyến 18!"
+   }
+  ]
+ },
+ "06-03.mp3": {
+  "key": "1120efcde99968e3f28b1e29c0ebd2e864166ca9",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.5305554,
+    "text": "Hai bên giằng co suốt nhiều tuần."
+   },
+   {
+    "start": 2.4805554,
+    "end": 7.5731477,
+    "text": "Trong khi đó ở Paris, tân thủ tướng Pháp Măng-đét Phrăng-xơ tuyên bố một câu rất ngầu."
+   }
+  ]
+ },
+ "06-04.mp3": {
+  "key": "d7434008cd23c47b521fc8d819070102748e2b54",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.3733048,
+    "text": "Trong 30 ngày mà không có hòa bình, tôi sẽ từ chức!"
+   }
+  ]
+ },
+ "06-05.mp3": {
+  "key": "9010c0d1f0266893a7445d369acf844413d95e32",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 5.3314812,
+    "text": "Còn Liên Xô và Trung Quốc thì muốn sớm hạ nhiệt căng thẳng, không muốn cho Mỹ cái cớ nhảy vào."
+   }
+  ]
+ },
+ "06-06.mp3": {
+  "key": "f6ab13ff931119d1ddbe80a8ab8363c599cc0859",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.9571428,
+    "text": "Thôi, các đồng chí nhượng bộ một chút đi."
+   }
+  ]
+ },
+ "06-07.mp3": {
+  "key": "39d64b4c6df40815f8b5d3bffd669d88635a230c",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.845370099999999,
+    "text": "Cuối cùng, các bên chốt ở vĩ tuyến 17, dọc theo dòng sông Bến Hải."
+   }
+  ]
+ },
+ "07-00.mp3": {
+  "key": "aedf34eea7b82a78aaae919cf0c9acf7d2d587a9",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 5.8060182,
+    "text": "Đêm 20 rạng sáng 21 tháng 7 năm 1954, hiệp định được ký kết."
+   },
+   {
+    "start": 5.7560182,
+    "end": 8.6032403,
+    "text": "Nội dung chính đại khái gồm bốn điểm."
+   }
+  ]
+ },
+ "07-01.mp3": {
+  "key": "f74bdf6d3c736fdd40b5e971a812c0a24d793677",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.0629628,
+    "text": "Một: ngừng bắn trên toàn Đông Dương."
+   }
+  ]
+ },
+ "07-02.mp3": {
+  "key": "5e304c667c5596f5f99091548fe004f506661dee",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.164814499999999,
+    "text": "Hai: vĩ tuyến 17 chỉ là giới tuyến quân sự tạm thời, chứ không phải là biên giới chính trị hay lãnh thổ."
+   }
+  ]
+ },
+ "07-03.mp3": {
+  "key": "1ae2283b73097669a873c6c07d8430d38f7f026d",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.417129399999999,
+    "text": "Ba: trong vòng 300 ngày, quân đội hai bên tập kết về hai miền."
+   }
+  ]
+ },
+ "07-04.mp3": {
+  "key": "06174159b7c3042144df9045a22c1272588c17d3",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.407870099999999,
+    "text": "Và bốn, điểm quan trọng nhất: tháng 7 năm 1956 sẽ tổng tuyển cử để thống nhất đất nước."
+   }
+  ]
+ },
+ "07-05.mp3": {
+  "key": "6f8119fce99b5bc92a68e041d62a2a5257034a6a",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 5.2273146,
+    "text": "Một ủy ban quốc tế gồm Ấn Độ, Ba Lan và Ca-na-đa sẽ giám sát việc thi hành."
+   }
+  ]
+ },
+ "08-00.mp3": {
+  "key": "8b72ae33d5f5117892f6e8fabfc262349181980b",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.0791665,
+    "text": "Nghe thì rất ổn."
+   },
+   {
+    "start": 2.0291665,
+    "end": 7.827777299999999,
+    "text": "Nhưng có hai bên không chịu tán thành Tuyên bố cuối cùng của hội nghị: đó là Mỹ, và Quốc gia Việt Nam."
+   }
+  ]
+ },
+ "08-01.mp3": {
+  "key": "dd4df7f60f3a9205eb3499af31154ef880c8552a",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.7785713000000003,
+    "text": "Chúng tôi chỉ... ghi nhận thôi nhé."
+   }
+  ]
+ },
+ "08-02.mp3": {
+  "key": "4c8f5fadc259f0a4e7b51524b251135b4c7beee6",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.8384257,
+    "text": "Đấy, đã bảo là nhớ câu “ngồi xem thôi” rồi mà."
+   }
+  ]
+ },
+ "09-00.mp3": {
+  "key": "072aca96516ca81f88421b3059b7b96125d27aaa",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.1393515999999995,
+    "text": "Trong 300 ngày sau đó, một cuộc chuyển dịch khổng lồ diễn ra."
+   }
+  ]
+ },
+ "09-01.mp3": {
+  "key": "dfae6d6554fcb9a6781abe3071810dbef609899c",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.259722,
+    "text": "Gần một triệu người từ miền Bắc di cư vào Nam."
+   },
+   {
+    "start": 3.209722,
+    "end": 7.3879625,
+    "text": "Còn hàng chục nghìn cán bộ, chiến sĩ miền Nam thì tập kết ra Bắc."
+   }
+  ]
+ },
+ "09-02.mp3": {
+  "key": "8941f2692fa46c49f342bdcdfa746a711de823bd",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.7084907,
+    "text": "Hai năm nữa tổng tuyển cử, mình sẽ gặp lại nhau."
+   }
+  ]
+ },
+ "09-03.mp3": {
+  "key": "b1ccb0d5ddbe1bb3c075893530227dea7e68874e",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.4726850000000002,
+    "text": "Rất nhiều người đã tin như vậy."
+   },
+   {
+    "start": 2.422685,
+    "end": 6.2305551999999995,
+    "text": "Họ không biết rằng cuộc chia ly ấy sẽ kéo dài hơn hai mươi năm."
+   }
+  ]
+ },
+ "10-00.mp3": {
+  "key": "0f8aa3a955344ca19ffe5620ed09316f16d7f34c",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 5.157870099999999,
+    "text": "Trong lúc đó, ở miền Nam, Mỹ ủng hộ một nhân vật mới: Ngô Đình Diệm."
+   }
+  ]
+ },
+ "10-01.mp3": {
+  "key": "588d25245dc1115a709a0c83c2db1ab4a38ddd37",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 1.7796875,
+    "text": "Xin chào."
+   },
+   {
+    "start": 1.7296875,
+    "end": 4.0734375,
+    "text": "Tôi là thủ tướng mới."
+   }
+  ]
+ },
+ "10-02.mp3": {
+  "key": "d1f10f7250315069a3bb85c525a8a6ed30eed79b",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 7.727314499999999,
+    "text": "Năm 1955, ông Diệm tổ chức trưng cầu dân ý để phế truất Bảo Đại, và thắng với 98,2% số phiếu."
+   }
+  ]
+ },
+ "10-03.mp3": {
+  "key": "91cb5611aab4c584c966b4b77f63472518c25e73",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.6370368,
+    "text": "Ở Sài Gòn, số phiếu bầu cho ông còn nhiều hơn cả số cử tri đã đăng ký."
+   },
+   {
+    "start": 4.5870368,
+    "end": 7.908795899999999,
+    "text": "Đúng là được lòng dân, theo một cách rất... toán học."
+   }
+  ]
+ },
+ "10-04.mp3": {
+  "key": "b6a2c2e8f8e6d7015a63efcb242508165c317448",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.593055199999999,
+    "text": "Ngày 26 tháng 10 năm 1955, Việt Nam Cộng hòa ra đời, với ông Diệm làm tổng thống."
+   }
+  ]
+ },
+ "11-00.mp3": {
+  "key": "67032eb96d96f6e9745ed53b2470c00646695643",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.1324072000000003,
+    "text": "Rồi năm 1956 đến."
+   },
+   {
+    "start": 3.0824072,
+    "end": 5.894907,
+    "text": "Đã tới lúc phải tổng tuyển cử theo hiệp định."
+   }
+  ]
+ },
+ "11-01.mp3": {
+  "key": "c5fa9a7c4a8080ad0f060e120e0143ee520ad99f",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.5433964000000002,
+    "text": "Mời các anh hiệp thương để chuẩn bị tổng tuyển cử."
+   }
+  ]
+ },
+ "11-02.mp3": {
+  "key": "1bce70a3bfa108fa7fec2bc23af8ccb66745b340",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.7953125,
+    "text": "Chúng tôi không ký hiệp định đó."
+   },
+   {
+    "start": 2.7453125,
+    "end": 5.0630208,
+    "text": "Không bầu cử gì cả."
+   }
+  ]
+ },
+ "11-03.mp3": {
+  "key": "0bd8a34e213069c321ecc801e66c6c28d017955e",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 1.674074,
+    "text": "Tại sao vậy?"
+   },
+   {
+    "start": 1.624074,
+    "end": 9.3439811,
+    "text": "Chính Tổng thống Mỹ Ai-xen-hao sau này viết trong hồi ký rằng: nếu bầu cử diễn ra, có lẽ khoảng 80% người dân sẽ bầu cho Hồ Chí Minh."
+   }
+  ]
+ },
+ "11-04.mp3": {
+  "key": "23c4e9449ec02d8ea8a20df2ebca4dd38f5e52ed",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.4449072000000003,
+    "text": "Và thế là cuộc tổng tuyển cử không bao giờ diễn ra."
+   },
+   {
+    "start": 3.3949072,
+    "end": 6.7398144,
+    "text": "Giới tuyến tạm thời dần trở thành một bức tường chia cắt."
+   }
+  ]
+ },
+ "12-00.mp3": {
+  "key": "26238f2efcd7a5bcf5a60fb1b79f54ee1e74bd0a",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.2666664999999995,
+    "text": "Ở miền Nam, chính quyền Diệm mở chiến dịch tố cộng, diệt cộng."
+   },
+   {
+    "start": 4.2166665,
+    "end": 9.8879625,
+    "text": "Năm 1959, luật mười năm chín ra đời, đưa máy chém đi khắp các vùng quê."
+   }
+  ]
+ },
+ "12-01.mp3": {
+  "key": "a6c90a273a1829dbdf794619b289e5ab7b6cf254",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.6763887,
+    "text": "Bị dồn đến đường cùng, nhân dân miền Nam đứng lên."
+   },
+   {
+    "start": 3.6263887,
+    "end": 9.4481477,
+    "text": "Năm 1960, phong trào Đồng Khởi bùng nổ ở Bến Tre, rồi lan ra khắp miền Nam."
+   }
+  ]
+ },
+ "12-02.mp3": {
+  "key": "74c75d631d019d5533b0c4e5b937c1c797d87b0e",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 6.1069442,
+    "text": "Ngày 20 tháng 12 năm 1960, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập."
+   }
+  ]
+ },
+ "13-00.mp3": {
+  "key": "6d8c2a296e343416bfb3193d5680d29c4c356660",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.3986109,
+    "text": "Thấy đồng minh lung lay, Mỹ gửi cố vấn sang."
+   },
+   {
+    "start": 3.3486109,
+    "end": 9.7259254,
+    "text": "Đến cuối năm 1963, số cố vấn quân sự Mỹ ở miền Nam đã lên tới khoảng mười sáu nghìn người."
+   }
+  ]
+ },
+ "13-01.mp3": {
+  "key": "1c8bfff6a43383b4477c5b9767ae983b7c2cffb3",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 2.4469387,
+    "text": "Chỉ là cố vấn thôi mà."
+   },
+   {
+    "start": 2.3969387,
+    "end": 4.9352039,
+    "text": "Cố vấn... có vũ trang thôi."
+   }
+  ]
+ },
+ "13-02.mp3": {
+  "key": "38155855c4a478c6befe698dde68485b90426569",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.9194442,
+    "text": "Năm 1964 là sự kiện Vịnh Bắc Bộ."
+   },
+   {
+    "start": 3.8694442,
+    "end": 9.552314299999999,
+    "text": "Và ngày 8 tháng 3 năm 1965, lính thủy đánh bộ Mỹ đổ bộ lên Đà Nẵng."
+   }
+  ]
+ },
+ "13-03.mp3": {
+  "key": "11c785e2f0045e326a763e9152032d6cedbf8c24",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.926388599999999,
+    "text": "Từ chỗ chỉ ngồi xem ở Giơnevơ, nước Mỹ giờ đã trực tiếp bước vào cuộc chiến."
+   }
+  ]
+ },
+ "14-00.mp3": {
+  "key": "21a9c6765aaf6fc14bc2b48f4110390745287b1b",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 5.8870368,
+    "text": "Tóm lại: Hiệp định Giơnevơ chỉ chia cắt đất nước tạm thời, và hứa hẹn tổng tuyển cử sau hai năm."
+   }
+  ]
+ },
+ "14-01.mp3": {
+  "key": "d6b1331502f2d96a37033ebdeb462dc01a19b155",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 3.5953702,
+    "text": "Nhưng Mỹ và chính quyền Sài Gòn đã phá bỏ lời hứa ấy."
+   },
+   {
+    "start": 3.5453702,
+    "end": 8.568518099999999,
+    "text": "Đó chính là nguyên nhân dẫn đến cuộc kháng chiến chống Mỹ cứu nước, kéo dài hơn hai mươi năm."
+   }
+  ]
+ },
+ "14-02.mp3": {
+  "key": "b4f34f798852749f622c39876f697790339fcd7f",
+  "sentences": [
+   {
+    "start": 0.1,
+    "end": 4.342453,
+    "text": "Tập sau, chúng ta sẽ tìm hiểu cuộc chiến này đã diễn ra như thế nào."
+   },
+   {
+    "start": 4.292453,
+    "end": 6.533019100000001,
+    "text": "Nhớ bấm đăng ký kênh nhé!"
+   }
+  ]
+ }
+}

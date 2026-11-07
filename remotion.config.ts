@@ -8,6 +8,8 @@
 import { Config } from "@remotion/cli/config";
 
 Config.setRspack(true);
+// WebGL for @remotion/effects (green-screen removal, vignette).
+Config.setChromiumOpenGlRenderer("angle");
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
 Config.setDefaultPremountInSeconds(2);

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sửa kịch bản</title>
+    <link rel="stylesheet" href="/script/style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="title">
+        <select id="episode" title="Chọn tập để sửa kịch bản"></select>
+        <strong id="ep-title">Kịch bản</strong>
+        <span id="dirty" class="pill hidden">Chưa lưu</span>
+      </div>
+      <div class="actions">
+        <button id="save" class="primary">Lưu</button>
+        <button id="voices">Tạo giọng &amp; nhạc</button>
+        <button id="render">Xuất video</button>
+        <button id="update-ep" class="hidden" title="Đọc lại các câu đã đổi và dựng lại tập trong trình dựng">Cập nhật tập</button>
+        <a href="/">← Trình dựng video</a>
+        <a id="studio" href="http://localhost:3000/HiepDinhGiongevo" target="_blank" rel="noopener">Xem trước hoạt hình ↗</a>
+      </div>
+    </header>
+    <div class="layout">
+      <nav id="scenes"></nav>
+      <main id="editor"></main>
+      <aside>
+        <section>
+          <h3>Video đã xuất</h3>
+          <video id="output" controls preload="metadata"></video>
+          <p id="output-info" class="muted"></p>
+        </section>
+        <section>
+          <h3>Tiến trình <span id="job-state" class="pill hidden"></span></h3>
+          <pre id="log" class="muted">Chưa chạy việc nào.</pre>
+        </section>
+      </aside>
+    </div>
+    <div id="toast" class="hidden"></div>
+    <script src="/script/app.js"></script>
+    <script src="/script/script-gen.js"></script>
+  </body>
+</html>

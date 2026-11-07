@@ -1,0 +1,9 @@
+# Python tools used by the editor and scripts/ (voices, music, subtitles, voice separation, loudness).
+edge-tts>=7.3
+imageio-ffmpeg>=0.8
+numpy>=2.0
+soundfile>=0.13
+# Automatic subtitles (Whisper) and voice/music separation (Demucs) in the editor's tools.
+faster-whisper>=1.2
+demucs>=4.1
+torch>=2.5

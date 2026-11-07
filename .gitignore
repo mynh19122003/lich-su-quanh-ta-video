@@ -5,3 +5,11 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# TikTok app keys and login tokens (editor/tiktok.mjs)
+.tiktok/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,2695 @@
+{
+ "id": "tap-2-chien-tranh-cuc-bo-pm01",
+ "name": "Tập 2 - Chiến tranh cục bộ",
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "assets": [
+  {
+   "id": "lr63kht5",
+   "kind": "audio",
+   "name": "Tập 2: Chiến tranh cục bộ (1965 - 1968) · Cô giáo",
+   "src": "uploads/giong-ai-e8c66dbd90cf08a0.mp3",
+   "durationInFrames": 251,
+   "hidden": true
+  },
+  {
+   "id": "fd4zhsjc",
+   "kind": "audio",
+   "name": "Tập 2: Chiến tranh cục bộ (1965 - 1968) · Người dẫn",
+   "src": "uploads/giong-ai-badbe9306782bb52.mp3",
+   "durationInFrames": 155,
+   "hidden": true
+  },
+  {
+   "id": "kmbzvti5",
+   "kind": "audio",
+   "name": "Tập 2: Chiến tranh cục bộ (1965 - 1968) · Người dẫn",
+   "src": "uploads/giong-ai-f6a18e78bc4bb45d.mp3",
+   "durationInFrames": 172,
+   "hidden": true
+  },
+  {
+   "id": "v3ueva49",
+   "kind": "audio",
+   "name": "Đà Nẵng, tháng 3/1965 · Người dẫn",
+   "src": "uploads/giong-ai-733bd25561fb8458.mp3",
+   "durationInFrames": 181,
+   "hidden": true
+  },
+  {
+   "id": "o1wutwkz",
+   "kind": "audio",
+   "name": "Đà Nẵng, tháng 3/1965 · Mỹ",
+   "src": "uploads/giong-ai-44953cc405430dbc.mp3",
+   "durationInFrames": 189,
+   "hidden": true
+  },
+  {
+   "id": "yh7qivtb",
+   "kind": "audio",
+   "name": "Đà Nẵng, tháng 3/1965 · Người dẫn",
+   "src": "uploads/giong-ai-cdbc43149e748019.mp3",
+   "durationInFrames": 257,
+   "hidden": true
+  },
+  {
+   "id": "sggavb9u",
+   "kind": "audio",
+   "name": "Đà Nẵng, tháng 3/1965 · Mỹ",
+   "src": "uploads/giong-ai-b7934a3725402685.mp3",
+   "durationInFrames": 128,
+   "hidden": true
+  },
+  {
+   "id": "o7abkh43",
+   "kind": "audio",
+   "name": "Chiến dịch Sấm Rền · Người dẫn",
+   "src": "uploads/giong-ai-eb13e9e0ad956be1.mp3",
+   "durationInFrames": 149,
+   "hidden": true
+  },
+  {
+   "id": "lix2se41",
+   "kind": "audio",
+   "name": "Chiến dịch Sấm Rền · Mỹ",
+   "src": "uploads/giong-ai-f9469d655c7cd0d4.mp3",
+   "durationInFrames": 113,
+   "hidden": true
+  },
+  {
+   "id": "7uqjhwg8",
+   "kind": "audio",
+   "name": "Chiến dịch Sấm Rền · Người dân",
+   "src": "uploads/giong-ai-320aa215904b0f03.mp3",
+   "durationInFrames": 203,
+   "hidden": true
+  },
+  {
+   "id": "lv7ie4ko",
+   "kind": "audio",
+   "name": "Chiến dịch Sấm Rền · Người dẫn",
+   "src": "uploads/giong-ai-195af8c5d9e3c3d6.mp3",
+   "durationInFrames": 143,
+   "hidden": true
+  },
+  {
+   "id": "ndhkohap",
+   "kind": "audio",
+   "name": "Vạn Tường, tháng 8/1965 · Người dẫn",
+   "src": "uploads/giong-ai-5bbb949867286fb9.mp3",
+   "durationInFrames": 194,
+   "hidden": true
+  },
+  {
+   "id": "pv5arzdk",
+   "kind": "audio",
+   "name": "Vạn Tường, tháng 8/1965 · Mỹ",
+   "src": "uploads/giong-ai-d7971d4e34ae0b64.mp3",
+   "durationInFrames": 163,
+   "hidden": true
+  },
+  {
+   "id": "hwcsmhze",
+   "kind": "audio",
+   "name": "Vạn Tường, tháng 8/1965 · Bộ đội",
+   "src": "uploads/giong-ai-d7c4a4d8ddd61b42.mp3",
+   "durationInFrames": 73,
+   "hidden": true
+  },
+  {
+   "id": "2o249l8k",
+   "kind": "audio",
+   "name": "Vạn Tường, tháng 8/1965 · Người dẫn",
+   "src": "uploads/giong-ai-a034ca25beb78270.mp3",
+   "durationInFrames": 271,
+   "hidden": true
+  },
+  {
+   "id": "c2lmk198",
+   "kind": "audio",
+   "name": "Đường Trường Sơn · Người dẫn",
+   "src": "uploads/giong-ai-8fca0bb05dba346a.mp3",
+   "durationInFrames": 263,
+   "hidden": true
+  },
+  {
+   "id": "aksfwse0",
+   "kind": "audio",
+   "name": "Đường Trường Sơn · Người dẫn",
+   "src": "uploads/giong-ai-37e4d3e578f216f7.mp3",
+   "durationInFrames": 209,
+   "hidden": true
+  },
+  {
+   "id": "cawz1ty4",
+   "kind": "audio",
+   "name": "Đường Trường Sơn · Người dẫn nữ",
+   "src": "uploads/giong-ai-3d08c21a87ac9fe2.mp3",
+   "durationInFrames": 154,
+   "hidden": true
+  },
+  {
+   "id": "69dyhdzp",
+   "kind": "audio",
+   "name": "Tìm và diệt · Người dẫn",
+   "src": "uploads/giong-ai-5a16d37b493bd965.mp3",
+   "durationInFrames": 148,
+   "hidden": true
+  },
+  {
+   "id": "eqsyx61n",
+   "kind": "audio",
+   "name": "Tìm và diệt · Mỹ",
+   "src": "uploads/giong-ai-8dbd75231651968b.mp3",
+   "durationInFrames": 124,
+   "hidden": true
+  },
+  {
+   "id": "eb6ubysg",
+   "kind": "audio",
+   "name": "Tìm và diệt · Bộ đội",
+   "src": "uploads/giong-ai-419a6624a2e8e831.mp3",
+   "durationInFrames": 103,
+   "hidden": true
+  },
+  {
+   "id": "x1sfphpu",
+   "kind": "audio",
+   "name": "Tìm và diệt · Người dẫn",
+   "src": "uploads/giong-ai-4943915e90eb77d2.mp3",
+   "durationInFrames": 320,
+   "hidden": true
+  },
+  {
+   "id": "g285wzrn",
+   "kind": "audio",
+   "name": "Không có gì quý hơn độc lập, tự do · Người dẫn",
+   "src": "uploads/giong-ai-e71f23d10bf5571f.mp3",
+   "durationInFrames": 220,
+   "hidden": true
+  },
+  {
+   "id": "fdqktki4",
+   "kind": "audio",
+   "name": "Không có gì quý hơn độc lập, tự do · Người dẫn nữ",
+   "src": "uploads/giong-ai-fac150ac4dd9eafe.mp3",
+   "durationInFrames": 92,
+   "hidden": true
+  },
+  {
+   "id": "dwa95q9h",
+   "kind": "audio",
+   "name": "Không có gì quý hơn độc lập, tự do · Người dẫn",
+   "src": "uploads/giong-ai-288c822dc52c6c84.mp3",
+   "durationInFrames": 166,
+   "hidden": true
+  },
+  {
+   "id": "0151621c",
+   "kind": "audio",
+   "name": "Nước Mỹ cũng không yên · Người dẫn",
+   "src": "uploads/giong-ai-40168f71e79b3f34.mp3",
+   "durationInFrames": 143,
+   "hidden": true
+  },
+  {
+   "id": "kt3eqnrz",
+   "kind": "audio",
+   "name": "Nước Mỹ cũng không yên · Người dẫn",
+   "src": "uploads/giong-ai-2ca08723f729bc25.mp3",
+   "durationInFrames": 162,
+   "hidden": true
+  },
+  {
+   "id": "v3nm1m7s",
+   "kind": "audio",
+   "name": "Nước Mỹ cũng không yên · Mỹ",
+   "src": "uploads/giong-ai-fd82ace20c4fbd3e.mp3",
+   "durationInFrames": 117,
+   "hidden": true
+  },
+  {
+   "id": "rt7b0nnp",
+   "kind": "audio",
+   "name": "Tết Mậu Thân 1968 · Người dẫn",
+   "src": "uploads/giong-ai-f6694f6ebd07a601.mp3",
+   "durationInFrames": 292,
+   "hidden": true
+  },
+  {
+   "id": "5bs630tn",
+   "kind": "audio",
+   "name": "Tết Mậu Thân 1968 · Người dẫn",
+   "src": "uploads/giong-ai-7c695e46b2ed5af6.mp3",
+   "durationInFrames": 196,
+   "hidden": true
+  },
+  {
+   "id": "mwx9x90y",
+   "kind": "audio",
+   "name": "Tết Mậu Thân 1968 · Mỹ",
+   "src": "uploads/giong-ai-dbe63005ec95d6f2.mp3",
+   "durationInFrames": 132,
+   "hidden": true
+  },
+  {
+   "id": "x7a4ms36",
+   "kind": "audio",
+   "name": "Tết Mậu Thân 1968 · Người dẫn",
+   "src": "uploads/giong-ai-1665b40e893b1206.mp3",
+   "durationInFrames": 214,
+   "hidden": true
+  },
+  {
+   "id": "umpfzzy0",
+   "kind": "audio",
+   "name": "Mỹ xuống thang · Người dẫn",
+   "src": "uploads/giong-ai-b44e768d6108ebb7.mp3",
+   "durationInFrames": 247,
+   "hidden": true
+  },
+  {
+   "id": "76o7ilqm",
+   "kind": "audio",
+   "name": "Mỹ xuống thang · Mỹ",
+   "src": "uploads/giong-ai-62516c9cba66c429.mp3",
+   "durationInFrames": 88,
+   "hidden": true
+  },
+  {
+   "id": "qdb0mbpa",
+   "kind": "audio",
+   "name": "Mỹ xuống thang · Người dẫn",
+   "src": "uploads/giong-ai-3af3cfc10cd2871e.mp3",
+   "durationInFrames": 289,
+   "hidden": true
+  },
+  {
+   "id": "g5vki21o",
+   "kind": "audio",
+   "name": "Tóm lại · Cô giáo",
+   "src": "uploads/giong-ai-a561365b2bcc55ee.mp3",
+   "durationInFrames": 282,
+   "hidden": true
+  },
+  {
+   "id": "uilemp5b",
+   "kind": "audio",
+   "name": "Tóm lại · Cô giáo",
+   "src": "uploads/giong-ai-1256db3869de85f6.mp3",
+   "durationInFrames": 183,
+   "hidden": true
+  },
+  {
+   "id": "pfb5b2ka",
+   "kind": "audio",
+   "name": "Nhạc nền mẫu",
+   "src": "geneva/music.wav",
+   "durationInFrames": 12480
+  }
+ ],
+ "tracks": [
+  {
+   "id": "muk8v39m",
+   "kind": "text",
+   "name": "Phụ đề",
+   "items": [
+    {
+     "id": "6geqwxq3",
+     "type": "text",
+     "from": 15,
+     "durationInFrames": 177,
+     "x": 960,
+     "y": 990,
+     "text": "Chào cả lớp. Hôm nay là bài số hai: cuộc chiến tranh cục bộ,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "mp6cxb5e",
+     "type": "text",
+     "from": 192,
+     "durationInFrames": 74,
+     "x": 960,
+     "y": 990,
+     "text": "từ năm 1965 đến năm 1968.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "2tc9p7lk",
+     "type": "text",
+     "from": 275,
+     "durationInFrames": 108,
+     "x": 960,
+     "y": 990,
+     "text": "Ở tập trước, nước Mỹ đã chuyển từ chỗ chỉ ngồi xem sang trực",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "totim6e6",
+     "type": "text",
+     "from": 383,
+     "durationInFrames": 47,
+     "x": 960,
+     "y": 990,
+     "text": "tiếp đổ quân vào miền Nam.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "a1e22rmi",
+     "type": "text",
+     "from": 439,
+     "durationInFrames": 99,
+     "x": 960,
+     "y": 990,
+     "text": "Hôm nay, chúng ta sẽ xem chuyện gì xảy ra khi cường quốc quân",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "zd2dsjb7",
+     "type": "text",
+     "from": 538,
+     "durationInFrames": 73,
+     "x": 960,
+     "y": 990,
+     "text": "sự số một thế giới quyết định tự mình ra sân.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "v2mn8h6j",
+     "type": "text",
+     "from": 650,
+     "durationInFrames": 139,
+     "x": 960,
+     "y": 990,
+     "text": "Tháng 3 năm 1965, những đơn vị lính thủy đánh bộ Mỹ đầu tiên",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "0g3g0kn8",
+     "type": "text",
+     "from": 789,
+     "durationInFrames": 42,
+     "x": 960,
+     "y": 990,
+     "text": "đổ bộ lên Đà Nẵng.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "3upf1wct",
+     "type": "text",
+     "from": 840,
+     "durationInFrames": 85,
+     "x": 960,
+     "y": 990,
+     "text": "Kế hoạch rất đơn giản: đưa thật nhiều quân,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "k0mwhfzf",
+     "type": "text",
+     "from": 925,
+     "durationInFrames": 104,
+     "x": 960,
+     "y": 990,
+     "text": "thật nhiều máy bay, và mọi chuyện sẽ xong nhanh thôi.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "wkicw1ul",
+     "type": "text",
+     "from": 1038,
+     "durationInFrames": 111,
+     "x": 960,
+     "y": 990,
+     "text": "Người ta gọi chiến lược này là chiến tranh cục bộ.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "qr5o7o3x",
+     "type": "text",
+     "from": 1149,
+     "durationInFrames": 133,
+     "x": 960,
+     "y": 990,
+     "text": "Đến năm 1968, số quân Mỹ ở miền Nam đã lên tới hơn nửa triệu",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "ubiw0fcs",
+     "type": "text",
+     "from": 1282,
+     "durationInFrames": 13,
+     "x": 960,
+     "y": 990,
+     "text": "người.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "o5ynujhu",
+     "type": "text",
+     "from": 1304,
+     "durationInFrames": 128,
+     "x": 960,
+     "y": 990,
+     "text": "Hơn nửa triệu người. Chắc là đủ rồi nhỉ?",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "x80aybhr",
+     "type": "text",
+     "from": 1471,
+     "durationInFrames": 118,
+     "x": 960,
+     "y": 990,
+     "text": "Cùng lúc đó, không quân Mỹ mở chiến dịch ném bom miền Bắc,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "38hzb0wf",
+     "type": "text",
+     "from": 1589,
+     "durationInFrames": 31,
+     "x": 960,
+     "y": 990,
+     "text": "gọi là Sấm Rền.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "bmvsmc2x",
+     "type": "text",
+     "from": 1629,
+     "durationInFrames": 113,
+     "x": 960,
+     "y": 990,
+     "text": "Ném bom đủ nhiều, họ sẽ phải chịu thua thôi.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "z22gazpa",
+     "type": "text",
+     "from": 1751,
+     "durationInFrames": 87,
+     "x": 960,
+     "y": 990,
+     "text": "Ban ngày ra đồng, ban đêm đánh máy bay.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "1mawsj1w",
+     "type": "text",
+     "from": 1838,
+     "durationInFrames": 116,
+     "x": 960,
+     "y": 990,
+     "text": "Bom rơi thì mình đào hầm, rồi lại tiếp tục sản xuất.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "kstsxg04",
+     "type": "text",
+     "from": 1963,
+     "durationInFrames": 67,
+     "x": 960,
+     "y": 990,
+     "text": "Miền Bắc vừa sản xuất vừa chiến đấu,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "jahwyg95",
+     "type": "text",
+     "from": 2030,
+     "durationInFrames": 76,
+     "x": 960,
+     "y": 990,
+     "text": "và vẫn không ngừng chi viện cho miền Nam.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "nnbhcs90",
+     "type": "text",
+     "from": 2145,
+     "durationInFrames": 134,
+     "x": 960,
+     "y": 990,
+     "text": "Tháng 8 năm 1965, quân Mỹ mở một cuộc hành quân lớn vào thôn",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "32b4pyaa",
+     "type": "text",
+     "from": 2279,
+     "durationInFrames": 60,
+     "x": 960,
+     "y": 990,
+     "text": "Vạn Tường, tỉnh Quảng Ngãi.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "t1v4nk7s",
+     "type": "text",
+     "from": 2348,
+     "durationInFrames": 163,
+     "x": 960,
+     "y": 990,
+     "text": "Xe tăng, máy bay, pháo binh. Một ngày là xong.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "j760kzil",
+     "type": "text",
+     "from": 2520,
+     "durationInFrames": 73,
+     "x": 960,
+     "y": 990,
+     "text": "Các anh đến thì chúng tôi đánh.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "wuyvobmt",
+     "type": "text",
+     "from": 2602,
+     "durationInFrames": 107,
+     "x": 960,
+     "y": 990,
+     "text": "Sau một ngày chiến đấu ác liệt, cuộc hành quân bị đẩy lùi.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "vv35p6tm",
+     "type": "text",
+     "from": 2709,
+     "durationInFrames": 107,
+     "x": 960,
+     "y": 990,
+     "text": "Vạn Tường trở thành trận thắng lớn đầu tiên trước quân Mỹ,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "gdob23ru",
+     "type": "text",
+     "from": 2816,
+     "durationInFrames": 57,
+     "x": 960,
+     "y": 990,
+     "text": "mở đầu cao trào tìm Mỹ mà đánh.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "403zhy7t",
+     "type": "text",
+     "from": 2912,
+     "durationInFrames": 98,
+     "x": 960,
+     "y": 990,
+     "text": "Để đánh lâu dài, miền Nam cần người, cần vũ khí,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "mharj1zh",
+     "type": "text",
+     "from": 3010,
+     "durationInFrames": 118,
+     "x": 960,
+     "y": 990,
+     "text": "cần lương thực. Tất cả đi theo một con đường xuyên qua núi",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "9v2291pt",
+     "type": "text",
+     "from": 3128,
+     "durationInFrames": 47,
+     "x": 960,
+     "y": 990,
+     "text": "rừng: đường Trường Sơn.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "31stdycg",
+     "type": "text",
+     "from": 3184,
+     "durationInFrames": 84,
+     "x": 960,
+     "y": 990,
+     "text": "Mỹ ném bom con đường này suốt nhiều năm.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "uqz8mnoo",
+     "type": "text",
+     "from": 3268,
+     "durationInFrames": 125,
+     "x": 960,
+     "y": 990,
+     "text": "Nhưng chỗ nào bị đánh sập, thì ngay đêm đó lại có người sửa.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "wm605ouc",
+     "type": "text",
+     "from": 3402,
+     "durationInFrames": 99,
+     "x": 960,
+     "y": 990,
+     "text": "Có những người lính đã đi bộ hàng tháng trời trên con đường",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "otb7lrf1",
+     "type": "text",
+     "from": 3501,
+     "durationInFrames": 55,
+     "x": 960,
+     "y": 990,
+     "text": "ấy, chỉ để đến được chiến trường.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "0wyzry3i",
+     "type": "text",
+     "from": 3595,
+     "durationInFrames": 48,
+     "x": 960,
+     "y": 990,
+     "text": "Trong hai mùa khô liên tiếp,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "bjdfw16o",
+     "type": "text",
+     "from": 3643,
+     "durationInFrames": 100,
+     "x": 960,
+     "y": 990,
+     "text": "Mỹ mở nhiều cuộc phản công lớn với chiến thuật tìm và diệt.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "okyfjeyi",
+     "type": "text",
+     "from": 3752,
+     "durationInFrames": 124,
+     "x": 960,
+     "y": 990,
+     "text": "Kế hoạch là: tìm ra họ, rồi tiêu diệt họ.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "rbrd6l14",
+     "type": "text",
+     "from": 3885,
+     "durationInFrames": 103,
+     "x": 960,
+     "y": 990,
+     "text": "Vấn đề là các anh phải tìm thấy chúng tôi trước đã.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "nxkkjbsb",
+     "type": "text",
+     "from": 3997,
+     "durationInFrames": 110,
+     "x": 960,
+     "y": 990,
+     "text": "Lớn nhất là cuộc hành quân Gianxơn Xiti ở Tây Ninh đầu năm",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "50sh29s4",
+     "type": "text",
+     "from": 4107,
+     "durationInFrames": 59,
+     "x": 960,
+     "y": 990,
+     "text": "1967, với hàng chục nghìn quân.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "fguj3cm2",
+     "type": "text",
+     "from": 4166,
+     "durationInFrames": 116,
+     "x": 960,
+     "y": 990,
+     "text": "Nhưng mục tiêu tiêu diệt cơ quan đầu não kháng chiến miền Nam",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "b6w8h04a",
+     "type": "text",
+     "from": 4282,
+     "durationInFrames": 35,
+     "x": 960,
+     "y": 990,
+     "text": "đã không đạt được.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "dupy981r",
+     "type": "text",
+     "from": 4356,
+     "durationInFrames": 123,
+     "x": 960,
+     "y": 990,
+     "text": "Tháng 7 năm 1966, Chủ tịch Hồ Chí Minh ra lời kêu gọi toàn",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "yflyzvk6",
+     "type": "text",
+     "from": 4479,
+     "durationInFrames": 97,
+     "x": 960,
+     "y": 990,
+     "text": "quốc, với một câu nói về sau trở thành bất hủ.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "zz8vqks3",
+     "type": "text",
+     "from": 4585,
+     "durationInFrames": 92,
+     "x": 960,
+     "y": 990,
+     "text": "Không có gì quý hơn độc lập, tự do.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "6gt8xqji",
+     "type": "text",
+     "from": 4686,
+     "durationInFrames": 92,
+     "x": 960,
+     "y": 990,
+     "text": "Câu nói ấy được viết lên tường nhà, lên băng rôn,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "33tzu3xt",
+     "type": "text",
+     "from": 4778,
+     "durationInFrames": 74,
+     "x": 960,
+     "y": 990,
+     "text": "và trở thành lẽ sống của cả một thế hệ.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "6raxp2jg",
+     "type": "text",
+     "from": 4891,
+     "durationInFrames": 60,
+     "x": 960,
+     "y": 990,
+     "text": "Trong khi đó, ở chính nước Mỹ,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "05d31v7i",
+     "type": "text",
+     "from": 4951,
+     "durationInFrames": 83,
+     "x": 960,
+     "y": 990,
+     "text": "chiến tranh được chiếu trên ti vi mỗi tối.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "sbc37agh",
+     "type": "text",
+     "from": 5043,
+     "durationInFrames": 65,
+     "x": 960,
+     "y": 990,
+     "text": "Số lính Mỹ thương vong tăng lên từng năm,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "q3xvj5y6",
+     "type": "text",
+     "from": 5108,
+     "durationInFrames": 97,
+     "x": 960,
+     "y": 990,
+     "text": "và ngày càng nhiều người Mỹ xuống đường phản đối chiến tranh.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "cbatsyz0",
+     "type": "text",
+     "from": 5214,
+     "durationInFrames": 117,
+     "x": 960,
+     "y": 990,
+     "text": "Ở chiến trường thì khó, mà ở nhà cũng khó nốt.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "z7ytz8qe",
+     "type": "text",
+     "from": 5370,
+     "durationInFrames": 125,
+     "x": 960,
+     "y": 990,
+     "text": "Đêm 30 rạng sáng 31 tháng 1 năm 1968, đúng dịp Tết Mậu Thân,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "dlw9xy3i",
+     "type": "text",
+     "from": 5495,
+     "durationInFrames": 119,
+     "x": 960,
+     "y": 990,
+     "text": "quân giải phóng đồng loạt tiến công vào hầu hết các thành",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "aqosw1b2",
+     "type": "text",
+     "from": 5614,
+     "durationInFrames": 48,
+     "x": 960,
+     "y": 990,
+     "text": "phố, thị xã ở miền Nam.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "pwu3yb46",
+     "type": "text",
+     "from": 5671,
+     "durationInFrames": 100,
+     "x": 960,
+     "y": 990,
+     "text": "Ở Sài Gòn, cả sứ quán Mỹ cũng bị tấn công.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "d18bwfp0",
+     "type": "text",
+     "from": 5771,
+     "durationInFrames": 96,
+     "x": 960,
+     "y": 990,
+     "text": "Ở Huế, trận chiến kéo dài gần một tháng.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "czcktb3x",
+     "type": "text",
+     "from": 5876,
+     "durationInFrames": 132,
+     "x": 960,
+     "y": 990,
+     "text": "Khoan đã. Chẳng phải chúng ta đang thắng sao?",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "d07dedwm",
+     "type": "text",
+     "from": 6017,
+     "durationInFrames": 54,
+     "x": 960,
+     "y": 990,
+     "text": "Ta cũng chịu nhiều tổn thất.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "dshoy6ej",
+     "type": "text",
+     "from": 6071,
+     "durationInFrames": 116,
+     "x": 960,
+     "y": 990,
+     "text": "Nhưng sau Tết Mậu Thân, người Mỹ bắt đầu hiểu rằng họ khó có",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "9g1yfqoz",
+     "type": "text",
+     "from": 6187,
+     "durationInFrames": 44,
+     "x": 960,
+     "y": 990,
+     "text": "thể thắng bằng quân sự.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "xrdw3ltm",
+     "type": "text",
+     "from": 6270,
+     "durationInFrames": 128,
+     "x": 960,
+     "y": 990,
+     "text": "Ngày 31 tháng 3 năm 1968, Tổng thống Mỹ Giônxơn tuyên bố hạn",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "u5r0cet9",
+     "type": "text",
+     "from": 6398,
+     "durationInFrames": 119,
+     "x": 960,
+     "y": 990,
+     "text": "chế ném bom miền Bắc, và không ra tranh cử nhiệm kỳ mới.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "8xmnyxye",
+     "type": "text",
+     "from": 6526,
+     "durationInFrames": 88,
+     "x": 960,
+     "y": 990,
+     "text": "Có lẽ... chúng ta nên nói chuyện.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "yyg5gzav",
+     "type": "text",
+     "from": 6623,
+     "durationInFrames": 142,
+     "x": 960,
+     "y": 990,
+     "text": "Tháng 5 năm 1968, Mỹ và Việt Nam Dân chủ Cộng hòa bắt đầu đàm",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "xa5zx5jx",
+     "type": "text",
+     "from": 6765,
+     "durationInFrames": 79,
+     "x": 960,
+     "y": 990,
+     "text": "phán ở Paris. Đến ngày 1 tháng 11,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "rr4rxm2f",
+     "type": "text",
+     "from": 6844,
+     "durationInFrames": 68,
+     "x": 960,
+     "y": 990,
+     "text": "Mỹ chấm dứt ném bom miền Bắc.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "lv08y5yl",
+     "type": "text",
+     "from": 6951,
+     "durationInFrames": 74,
+     "x": 960,
+     "y": 990,
+     "text": "Tóm lại: từ năm 1965 đến năm 1968,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "9j9hb0kd",
+     "type": "text",
+     "from": 7025,
+     "durationInFrames": 128,
+     "x": 960,
+     "y": 990,
+     "text": "Mỹ đưa hơn nửa triệu quân vào miền Nam và ném bom miền Bắc,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "bykeil7b",
+     "type": "text",
+     "from": 7153,
+     "durationInFrames": 80,
+     "x": 960,
+     "y": 990,
+     "text": "nhưng chiến tranh cục bộ đã thất bại.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "e5b1tlkw",
+     "type": "text",
+     "from": 7242,
+     "durationInFrames": 127,
+     "x": 960,
+     "y": 990,
+     "text": "Tập sau: Níchxơn và chiến lược Việt Nam hóa chiến tranh.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "rxxsgz9o",
+     "type": "text",
+     "from": 7369,
+     "durationInFrames": 56,
+     "x": 960,
+     "y": 990,
+     "text": "Nhớ bấm đăng ký kênh nhé!",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    }
+   ]
+  },
+  {
+   "id": "swte1g24",
+   "kind": "text",
+   "name": "Tên cảnh",
+   "items": [
+    {
+     "id": "31yq44z1",
+     "type": "text",
+     "from": 0,
+     "durationInFrames": 90,
+     "text": "(Tập 2: Chiến tranh cục bộ (1965 - 1968))",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#f4f4ec",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "w6ff0v6o",
+     "type": "text",
+     "from": 635,
+     "durationInFrames": 90,
+     "text": "(Đà Nẵng, tháng 3/1965)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#1d1d1d",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "ev05uk0r",
+     "type": "text",
+     "from": 1456,
+     "durationInFrames": 90,
+     "text": "(Chiến dịch Sấm Rền)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#f4f4ec",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "212kh6pm",
+     "type": "text",
+     "from": 2130,
+     "durationInFrames": 90,
+     "text": "(Vạn Tường, tháng 8/1965)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#f4f4ec",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "wq8jguqb",
+     "type": "text",
+     "from": 2897,
+     "durationInFrames": 90,
+     "text": "(Đường Trường Sơn)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "y6ve7rbr",
+     "type": "text",
+     "from": 3580,
+     "durationInFrames": 90,
+     "text": "(Tìm và diệt)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#f4f4ec",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "01witl1t",
+     "type": "text",
+     "from": 4341,
+     "durationInFrames": 90,
+     "text": "(Không có gì quý hơn độc lập, tự do)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#1d1d1d",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "ovdll86b",
+     "type": "text",
+     "from": 4876,
+     "durationInFrames": 90,
+     "text": "(Nước Mỹ cũng không yên)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#1d1d1d",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "id5m22oe",
+     "type": "text",
+     "from": 5355,
+     "durationInFrames": 90,
+     "text": "(Tết Mậu Thân 1968)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#f4f4ec",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "4wa29c6i",
+     "type": "text",
+     "from": 6255,
+     "durationInFrames": 90,
+     "text": "(Mỹ xuống thang)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#1d1d1d",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "7knf5m6t",
+     "type": "text",
+     "from": 6936,
+     "durationInFrames": 90,
+     "text": "(Tóm lại)",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 56,
+     "color": "#f4f4ec",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 70,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    }
+   ]
+  },
+  {
+   "id": "3mryzgbf",
+   "kind": "visual",
+   "name": "Nhân vật 1",
+   "items": [
+    {
+     "id": "6n5u4edh",
+     "type": "sticker",
+     "sticker": "char-teacher",
+     "from": 0,
+     "durationInFrames": 635,
+     "x": 960,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       15,
+       266
+      ]
+     ]
+    },
+    {
+     "id": "tpcq801l",
+     "type": "sticker",
+     "sticker": "char-my",
+     "from": 635,
+     "durationInFrames": 821,
+     "x": 960,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       205,
+       394
+      ],
+      [
+       669,
+       797
+      ]
+     ]
+    },
+    {
+     "id": "sq5qf9jx",
+     "type": "sticker",
+     "sticker": "char-my",
+     "from": 1456,
+     "durationInFrames": 674,
+     "x": 640,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       173,
+       286
+      ]
+     ]
+    },
+    {
+     "id": "qexc1heu",
+     "type": "sticker",
+     "sticker": "char-vm",
+     "from": 2130,
+     "durationInFrames": 767,
+     "x": 640,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       390,
+       463
+      ]
+     ]
+    },
+    {
+     "id": "pzjzc4fk",
+     "type": "sticker",
+     "sticker": "char-my",
+     "from": 3580,
+     "durationInFrames": 761,
+     "x": 640,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       172,
+       296
+      ]
+     ]
+    },
+    {
+     "id": "vg0txpgr",
+     "type": "sticker",
+     "sticker": "char-dan",
+     "from": 4341,
+     "durationInFrames": 535,
+     "x": 960,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": []
+    },
+    {
+     "id": "hhq5hyoa",
+     "type": "sticker",
+     "sticker": "char-my",
+     "from": 4876,
+     "durationInFrames": 479,
+     "x": 960,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       338,
+       455
+      ]
+     ]
+    },
+    {
+     "id": "6tkzyj5e",
+     "type": "sticker",
+     "sticker": "char-vm",
+     "from": 5355,
+     "durationInFrames": 900,
+     "x": 640,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": []
+    },
+    {
+     "id": "lkryi7ar",
+     "type": "sticker",
+     "sticker": "char-my",
+     "from": 6255,
+     "durationInFrames": 681,
+     "x": 960,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       271,
+       359
+      ]
+     ]
+    },
+    {
+     "id": "xlpydiiy",
+     "type": "sticker",
+     "sticker": "char-teacher",
+     "from": 6936,
+     "durationInFrames": 513,
+     "x": 960,
+     "y": 648,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       15,
+       297
+      ],
+      [
+       306,
+       489
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a1oic6oc",
+   "kind": "visual",
+   "name": "Nhân vật 2",
+   "items": [
+    {
+     "id": "98oeywhq",
+     "type": "sticker",
+     "sticker": "char-dan",
+     "from": 1456,
+     "durationInFrames": 674,
+     "x": 1280,
+     "y": 648,
+     "size": 594,
+     "flip": true,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       295,
+       498
+      ]
+     ]
+    },
+    {
+     "id": "z3x3nojl",
+     "type": "sticker",
+     "sticker": "char-my",
+     "from": 2130,
+     "durationInFrames": 767,
+     "x": 1280,
+     "y": 648,
+     "size": 594,
+     "flip": true,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       218,
+       381
+      ]
+     ]
+    },
+    {
+     "id": "s42iiie9",
+     "type": "sticker",
+     "sticker": "char-vm",
+     "from": 3580,
+     "durationInFrames": 761,
+     "x": 1280,
+     "y": 648,
+     "size": 594,
+     "flip": true,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       305,
+       408
+      ]
+     ]
+    },
+    {
+     "id": "nvpmgrz1",
+     "type": "sticker",
+     "sticker": "char-my",
+     "from": 5355,
+     "durationInFrames": 900,
+     "x": 1280,
+     "y": 648,
+     "size": 594,
+     "flip": true,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       521,
+       653
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7ylzsae",
+   "kind": "visual",
+   "name": "Bản đồ",
+   "items": [
+    {
+     "id": "r1gqqkwe",
+     "type": "sticker",
+     "sticker": "map-vn",
+     "from": 2897,
+     "durationInFrames": 683,
+     "x": 960,
+     "y": 540,
+     "size": 993.6,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    }
+   ]
+  },
+  {
+   "id": "63838dtp",
+   "kind": "visual",
+   "name": "Nền cảnh",
+   "items": [
+    {
+     "id": "l76f27n4",
+     "type": "solid",
+     "from": 0,
+     "durationInFrames": 635,
+     "color": "#2f4f43",
+     "color2": "#22392f",
+     "opacity": 1
+    },
+    {
+     "id": "hqiplrrg",
+     "type": "solid",
+     "from": 635,
+     "durationInFrames": 821,
+     "color": "#a9dcf5",
+     "color2": "#8fc46a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "a5kab0n7",
+     "type": "solid",
+     "from": 1456,
+     "durationInFrames": 674,
+     "color": "#16161c",
+     "color2": "#2a2a40",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "nzlodacy",
+     "type": "solid",
+     "from": 2130,
+     "durationInFrames": 767,
+     "color": "#6a8f4a",
+     "color2": "#3f5a2a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "jxofeo61",
+     "type": "solid",
+     "from": 2897,
+     "durationInFrames": 683,
+     "color": "#4f7cc4",
+     "color2": "#3d63a3",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "7w7gw06b",
+     "type": "solid",
+     "from": 3580,
+     "durationInFrames": 761,
+     "color": "#6a8f4a",
+     "color2": "#3f5a2a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "t69uz760",
+     "type": "solid",
+     "from": 4341,
+     "durationInFrames": 535,
+     "color": "#f2e6cc",
+     "color2": "#e2cfa6",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "sk8a6yg1",
+     "type": "solid",
+     "from": 4876,
+     "durationInFrames": 479,
+     "color": "#d8b98c",
+     "color2": "#a8875a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "tgkiwl48",
+     "type": "solid",
+     "from": 5355,
+     "durationInFrames": 900,
+     "color": "#16161c",
+     "color2": "#2a2a40",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "qge12vp6",
+     "type": "solid",
+     "from": 6255,
+     "durationInFrames": 681,
+     "color": "#d8b98c",
+     "color2": "#a8875a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    },
+    {
+     "id": "58rs0ulq",
+     "type": "solid",
+     "from": 6936,
+     "durationInFrames": 513,
+     "color": "#2f4f43",
+     "color2": "#22392f",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    }
+   ]
+  },
+  {
+   "id": "kwzd3x8z",
+   "kind": "audio",
+   "name": "Giọng đọc",
+   "items": [
+    {
+     "id": "ptl3jkts",
+     "type": "audio",
+     "assetId": "lr63kht5",
+     "from": 15,
+     "durationInFrames": 251,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "q8ptfimo",
+     "type": "audio",
+     "assetId": "fd4zhsjc",
+     "from": 275,
+     "durationInFrames": 155,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "ghezozd0",
+     "type": "audio",
+     "assetId": "kmbzvti5",
+     "from": 439,
+     "durationInFrames": 172,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "xdzx7kki",
+     "type": "audio",
+     "assetId": "v3ueva49",
+     "from": 650,
+     "durationInFrames": 181,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "3ftdgnyy",
+     "type": "audio",
+     "assetId": "o1wutwkz",
+     "from": 840,
+     "durationInFrames": 189,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "w15vaxpf",
+     "type": "audio",
+     "assetId": "yh7qivtb",
+     "from": 1038,
+     "durationInFrames": 257,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "g9ybcsj1",
+     "type": "audio",
+     "assetId": "sggavb9u",
+     "from": 1304,
+     "durationInFrames": 128,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "o9e2ah28",
+     "type": "audio",
+     "assetId": "o7abkh43",
+     "from": 1471,
+     "durationInFrames": 149,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "l3z4kohs",
+     "type": "audio",
+     "assetId": "lix2se41",
+     "from": 1629,
+     "durationInFrames": 113,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "983sluu2",
+     "type": "audio",
+     "assetId": "7uqjhwg8",
+     "from": 1751,
+     "durationInFrames": 203,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "nebdk507",
+     "type": "audio",
+     "assetId": "lv7ie4ko",
+     "from": 1963,
+     "durationInFrames": 143,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "kjki1sn9",
+     "type": "audio",
+     "assetId": "ndhkohap",
+     "from": 2145,
+     "durationInFrames": 194,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "zneq4r12",
+     "type": "audio",
+     "assetId": "pv5arzdk",
+     "from": 2348,
+     "durationInFrames": 163,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "9o72txbt",
+     "type": "audio",
+     "assetId": "hwcsmhze",
+     "from": 2520,
+     "durationInFrames": 73,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "7nph1ofr",
+     "type": "audio",
+     "assetId": "2o249l8k",
+     "from": 2602,
+     "durationInFrames": 271,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "n8vqbo0s",
+     "type": "audio",
+     "assetId": "c2lmk198",
+     "from": 2912,
+     "durationInFrames": 263,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "vhrahnte",
+     "type": "audio",
+     "assetId": "aksfwse0",
+     "from": 3184,
+     "durationInFrames": 209,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "3ufsx3mw",
+     "type": "audio",
+     "assetId": "cawz1ty4",
+     "from": 3402,
+     "durationInFrames": 154,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "jyqf8589",
+     "type": "audio",
+     "assetId": "69dyhdzp",
+     "from": 3595,
+     "durationInFrames": 148,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "q8dq2eie",
+     "type": "audio",
+     "assetId": "eqsyx61n",
+     "from": 3752,
+     "durationInFrames": 124,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "l18p8hjo",
+     "type": "audio",
+     "assetId": "eb6ubysg",
+     "from": 3885,
+     "durationInFrames": 103,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "di180mai",
+     "type": "audio",
+     "assetId": "x1sfphpu",
+     "from": 3997,
+     "durationInFrames": 320,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "f7diq4kt",
+     "type": "audio",
+     "assetId": "g285wzrn",
+     "from": 4356,
+     "durationInFrames": 220,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "kikd6vaq",
+     "type": "audio",
+     "assetId": "fdqktki4",
+     "from": 4585,
+     "durationInFrames": 92,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "o9qbgse9",
+     "type": "audio",
+     "assetId": "dwa95q9h",
+     "from": 4686,
+     "durationInFrames": 166,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "svzmb3pb",
+     "type": "audio",
+     "assetId": "0151621c",
+     "from": 4891,
+     "durationInFrames": 143,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "8e4j9dl6",
+     "type": "audio",
+     "assetId": "kt3eqnrz",
+     "from": 5043,
+     "durationInFrames": 162,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "62ssunyt",
+     "type": "audio",
+     "assetId": "v3nm1m7s",
+     "from": 5214,
+     "durationInFrames": 117,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "3i958ym6",
+     "type": "audio",
+     "assetId": "rt7b0nnp",
+     "from": 5370,
+     "durationInFrames": 292,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "494ms915",
+     "type": "audio",
+     "assetId": "5bs630tn",
+     "from": 5671,
+     "durationInFrames": 196,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "bvzxdrxf",
+     "type": "audio",
+     "assetId": "mwx9x90y",
+     "from": 5876,
+     "durationInFrames": 132,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "xy0u9c0a",
+     "type": "audio",
+     "assetId": "x7a4ms36",
+     "from": 6017,
+     "durationInFrames": 214,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "i0jioqyg",
+     "type": "audio",
+     "assetId": "umpfzzy0",
+     "from": 6270,
+     "durationInFrames": 247,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "hw2lgl0p",
+     "type": "audio",
+     "assetId": "76o7ilqm",
+     "from": 6526,
+     "durationInFrames": 88,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "axc3wexe",
+     "type": "audio",
+     "assetId": "qdb0mbpa",
+     "from": 6623,
+     "durationInFrames": 289,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "a1ye2g0j",
+     "type": "audio",
+     "assetId": "g5vki21o",
+     "from": 6951,
+     "durationInFrames": 282,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "7yyvjcxj",
+     "type": "audio",
+     "assetId": "uilemp5b",
+     "from": 7242,
+     "durationInFrames": 183,
+     "trimStart": 0,
+     "volume": 1
+    }
+   ]
+  },
+  {
+   "id": "g74c1u80",
+   "kind": "audio",
+   "name": "Nhạc nền",
+   "items": [
+    {
+     "id": "tl63hege",
+     "type": "audio",
+     "assetId": "pfb5b2ka",
+     "from": 0,
+     "durationInFrames": 7449,
+     "trimStart": 0,
+     "volume": 0.14,
+     "fadeOut": 45
+    }
+   ]
+  }
+ ],
+ "script": {
+  "text": "# Tập 2: Chiến tranh cục bộ (1965 - 1968) | nền: bảng đen | nhân vật: Cô giáo\nCô giáo: Chào cả lớp. Hôm nay là bài số hai: cuộc chiến tranh cục bộ, từ năm 1965 đến năm 1968.\nNgười dẫn: Ở tập trước, nước Mỹ đã chuyển từ chỗ chỉ ngồi xem sang trực tiếp đổ quân vào miền Nam.\nNgười dẫn: Hôm nay, chúng ta sẽ xem chuyện gì xảy ra khi cường quốc quân sự số một thế giới quyết định tự mình ra sân.\n\n# Đà Nẵng, tháng 3/1965 | nền: bầu trời | nhân vật: Mỹ\nNgười dẫn: Tháng 3 năm 1965, những đơn vị lính thủy đánh bộ Mỹ đầu tiên đổ bộ lên Đà Nẵng.\nMỹ: Kế hoạch rất đơn giản: đưa thật nhiều quân, thật nhiều máy bay, và mọi chuyện sẽ xong nhanh thôi.\nNgười dẫn: Người ta gọi chiến lược này là chiến tranh cục bộ. Đến năm 1968, số quân Mỹ ở miền Nam đã lên tới hơn nửa triệu người.\nMỹ: Hơn nửa triệu người. Chắc là đủ rồi nhỉ?\n\n# Chiến dịch Sấm Rền | nền: đêm | nhân vật: Mỹ, Người dân\nNgười dẫn: Cùng lúc đó, không quân Mỹ mở chiến dịch ném bom miền Bắc, gọi là Sấm Rền.\nMỹ: Ném bom đủ nhiều, họ sẽ phải chịu thua thôi.\nNgười dân: Ban ngày ra đồng, ban đêm đánh máy bay. Bom rơi thì mình đào hầm, rồi lại tiếp tục sản xuất.\nNgười dẫn: Miền Bắc vừa sản xuất vừa chiến đấu, và vẫn không ngừng chi viện cho miền Nam.\n\n# Vạn Tường, tháng 8/1965 | nền: chiến trường | nhân vật: Bộ đội, Mỹ\nNgười dẫn: Tháng 8 năm 1965, quân Mỹ mở một cuộc hành quân lớn vào thôn Vạn Tường, tỉnh Quảng Ngãi.\nMỹ: Xe tăng, máy bay, pháo binh. Một ngày là xong.\nBộ đội: Các anh đến thì chúng tôi đánh.\nNgười dẫn: Sau một ngày chiến đấu ác liệt, cuộc hành quân bị đẩy lùi. Vạn Tường trở thành trận thắng lớn đầu tiên trước quân Mỹ, mở đầu cao trào tìm Mỹ mà đánh.\n\n# Đường Trường Sơn | nền: bản đồ\nNgười dẫn: Để đánh lâu dài, miền Nam cần người, cần vũ khí, cần lương thực. Tất cả đi theo một con đường xuyên qua núi rừng: đường Trường Sơn.\nNgười dẫn: Mỹ ném bom con đường này suốt nhiều năm. Nhưng chỗ nào bị đánh sập, thì ngay đêm đó lại có người sửa.\nNgười dẫn nữ: Có những người lính đã đi bộ hàng tháng trời trên con đường ấy, chỉ để đến được chiến trường.\n\n# Tìm và diệt | nền: chiến trường | nhân vật: Mỹ, Bộ đội\nNgười dẫn: Trong hai mùa khô liên tiếp, Mỹ mở nhiều cuộc phản công lớn với chiến thuật tìm và diệt.\nMỹ: Kế hoạch là: tìm ra họ, rồi tiêu diệt họ.\nBộ đội: Vấn đề là các anh phải tìm thấy chúng tôi trước đã.\nNgười dẫn: Lớn nhất là cuộc hành quân Gianxơn Xiti ở Tây Ninh đầu năm 1967, với hàng chục nghìn quân. Nhưng mục tiêu tiêu diệt cơ quan đầu não kháng chiến miền Nam đã không đạt được.\n\n# Không có gì quý hơn độc lập, tự do | nền: giấy | nhân vật: Người dân\nNgười dẫn: Tháng 7 năm 1966, Chủ tịch Hồ Chí Minh ra lời kêu gọi toàn quốc, với một câu nói về sau trở thành bất hủ.\nNgười dẫn nữ: Không có gì quý hơn độc lập, tự do.\nNgười dẫn: Câu nói ấy được viết lên tường nhà, lên băng rôn, và trở thành lẽ sống của cả một thế hệ.\n\n# Nước Mỹ cũng không yên | nền: phòng họp | nhân vật: Mỹ\nNgười dẫn: Trong khi đó, ở chính nước Mỹ, chiến tranh được chiếu trên ti vi mỗi tối.\nNgười dẫn: Số lính Mỹ thương vong tăng lên từng năm, và ngày càng nhiều người Mỹ xuống đường phản đối chiến tranh.\nMỹ: Ở chiến trường thì khó, mà ở nhà cũng khó nốt.\n\n# Tết Mậu Thân 1968 | nền: đêm | nhân vật: Bộ đội, Mỹ\nNgười dẫn: Đêm 30 rạng sáng 31 tháng 1 năm 1968, đúng dịp Tết Mậu Thân, quân giải phóng đồng loạt tiến công vào hầu hết các thành phố, thị xã ở miền Nam.\nNgười dẫn: Ở Sài Gòn, cả sứ quán Mỹ cũng bị tấn công. Ở Huế, trận chiến kéo dài gần một tháng.\nMỹ: Khoan đã. Chẳng phải chúng ta đang thắng sao?\nNgười dẫn: Ta cũng chịu nhiều tổn thất. Nhưng sau Tết Mậu Thân, người Mỹ bắt đầu hiểu rằng họ khó có thể thắng bằng quân sự.\n\n# Mỹ xuống thang | nền: phòng họp | nhân vật: Mỹ\nNgười dẫn: Ngày 31 tháng 3 năm 1968, Tổng thống Mỹ Giônxơn tuyên bố hạn chế ném bom miền Bắc, và không ra tranh cử nhiệm kỳ mới.\nMỹ: Có lẽ... chúng ta nên nói chuyện.\nNgười dẫn: Tháng 5 năm 1968, Mỹ và Việt Nam Dân chủ Cộng hòa bắt đầu đàm phán ở Paris. Đến ngày 1 tháng 11, Mỹ chấm dứt ném bom miền Bắc.\n\n# Tóm lại | nền: bảng đen | nhân vật: Cô giáo\nCô giáo: Tóm lại: từ năm 1965 đến năm 1968, Mỹ đưa hơn nửa triệu quân vào miền Nam và ném bom miền Bắc, nhưng chiến tranh cục bộ đã thất bại.\nCô giáo: Tập sau: Níchxơn và chiến lược Việt Nam hóa chiến tranh. Nhớ bấm đăng ký kênh nhé!",
+  "frame": "16:9",
+  "music": true
+ }
+}

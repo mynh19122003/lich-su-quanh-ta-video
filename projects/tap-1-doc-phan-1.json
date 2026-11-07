@@ -1,0 +1,478 @@
+{
+ "id": "tap-1-doc-phan-1",
+ "name": "Tập 1 - Giơnevơ (dọc 9:16, phần 1)",
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "assets": [],
+ "tracks": [
+  {
+   "id": "t-cta",
+   "kind": "text",
+   "name": "Tiêu đề",
+   "items": [
+    {
+     "id": "v9x16021",
+     "type": "text",
+     "from": 0,
+     "durationInFrames": 1467,
+     "x": 540,
+     "y": 290,
+     "text": "Thắng trận mà lại\nbị chia đôi?",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 92,
+     "color": "#ffd54a",
+     "strokeColor": "#000000",
+     "strokeWidth": 10,
+     "bold": false,
+     "background": "",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     }
+    },
+    {
+     "id": "v9x16022",
+     "type": "text",
+     "from": 0,
+     "durationInFrames": 1467,
+     "x": 540,
+     "y": 480,
+     "text": "Hiệp định Giơnevơ 1954 · Phần 1",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 44,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 6,
+     "bold": false,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16023",
+     "type": "text",
+     "from": 1272,
+     "durationInFrames": 195,
+     "x": 540,
+     "y": 1600,
+     "text": "Phần 2: lời hứa tổng tuyển cử 1956\n👉 Theo dõi để xem tiếp",
+     "fontFamily": "Arial",
+     "fontSize": 50,
+     "color": "#1d1d1d",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "#ffd54a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     }
+    }
+   ]
+  },
+  {
+   "id": "t-sub",
+   "kind": "text",
+   "name": "Phụ đề",
+   "items": [
+    {
+     "id": "v9x16002",
+     "type": "text",
+     "from": 1,
+     "durationInFrames": 67,
+     "x": 540,
+     "y": 1410,
+     "text": "Thắng trận mà lại bị chia\nđôi?",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16003",
+     "type": "text",
+     "from": 68,
+     "durationInFrames": 77,
+     "x": 540,
+     "y": 1410,
+     "text": "Nghe có gì đó sai sai đúng\nkhông?",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16005",
+     "type": "text",
+     "from": 158,
+     "durationInFrames": 129,
+     "x": 540,
+     "y": 1410,
+     "text": "Câu hỏi lớn nhất là: lấy\nđâu làm ranh giới tạm thời\nđể quân đội hai bên",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16006",
+     "type": "text",
+     "from": 287,
+     "durationInFrames": 14,
+     "x": 540,
+     "y": 1410,
+     "text": "tập kết?",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16007",
+     "type": "text",
+     "from": 312,
+     "durationInFrames": 81,
+     "x": 540,
+     "y": 1410,
+     "text": "Chúng tôi đề nghị lấy vĩ\ntuyến 13.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16008",
+     "type": "text",
+     "from": 404,
+     "durationInFrames": 37,
+     "x": 540,
+     "y": 1410,
+     "text": "Không được.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16009",
+     "type": "text",
+     "from": 441,
+     "durationInFrames": 52,
+     "x": 540,
+     "y": 1410,
+     "text": "Vĩ tuyến 18!",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16010",
+     "type": "text",
+     "from": 505,
+     "durationInFrames": 71,
+     "x": 540,
+     "y": 1410,
+     "text": "Hai bên giằng co suốt nhiều\ntuần.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16011",
+     "type": "text",
+     "from": 576,
+     "durationInFrames": 136,
+     "x": 540,
+     "y": 1410,
+     "text": "Trong khi đó ở Paris, tân\nthủ tướng Pháp Mendès\nFrance tuyên bố một câu",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16012",
+     "type": "text",
+     "from": 712,
+     "durationInFrames": 17,
+     "x": 540,
+     "y": 1410,
+     "text": "rất ngầu.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16013",
+     "type": "text",
+     "from": 741,
+     "durationInFrames": 99,
+     "x": 540,
+     "y": 1410,
+     "text": "Trong 30 ngày mà không có\nhòa bình, tôi sẽ từ chức!",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16014",
+     "type": "text",
+     "from": 850,
+     "durationInFrames": 100,
+     "x": 540,
+     "y": 1410,
+     "text": "Còn Liên Xô và Trung Quốc\nthì muốn sớm hạ nhiệt căng\nthẳng,",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16015",
+     "type": "text",
+     "from": 950,
+     "durationInFrames": 57,
+     "x": 540,
+     "y": 1410,
+     "text": "không muốn cho Mỹ cái cớ\nnhảy vào.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16016",
+     "type": "text",
+     "from": 1018,
+     "durationInFrames": 86,
+     "x": 540,
+     "y": 1410,
+     "text": "Thôi, các đồng chí nhượng\nbộ một chút đi.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16017",
+     "type": "text",
+     "from": 1115,
+     "durationInFrames": 142,
+     "x": 540,
+     "y": 1410,
+     "text": "Cuối cùng, các bên chốt ở\nvĩ tuyến 17, dọc theo dòng\nsông Bến Hải.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16019",
+     "type": "text",
+     "from": 1278,
+     "durationInFrames": 92,
+     "x": 540,
+     "y": 1410,
+     "text": "Hai: vĩ tuyến 17 chỉ là\ngiới tuyến quân sự tạm\nthời,",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    },
+    {
+     "id": "v9x16020",
+     "type": "text",
+     "from": 1370,
+     "durationInFrames": 90,
+     "x": 540,
+     "y": 1410,
+     "text": "chứ không phải là biên giới\nchính trị hay lãnh thổ.",
+     "fontFamily": "Arial",
+     "fontSize": 56,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "rgba(0,0,0,0.72)",
+     "opacity": 1
+    }
+   ]
+  },
+  {
+   "id": "t-ep",
+   "kind": "visual",
+   "name": "Tập 1",
+   "items": [
+    {
+     "id": "v9x16001",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 0,
+     "durationInFrames": 150,
+     "trimStart": 448,
+     "hideSubtitles": true,
+     "keyframes": {
+      "scale": [
+       {
+        "frame": 0,
+        "value": 1.12
+       }
+      ],
+      "offsetY": [
+       {
+        "frame": 0,
+        "value": -60.0
+       }
+      ]
+     }
+    },
+    {
+     "id": "v9x16004",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 150,
+     "durationInFrames": 1122,
+     "trimStart": 4587,
+     "hideSubtitles": true,
+     "keyframes": {
+      "scale": [
+       {
+        "frame": 0,
+        "value": 1.12
+       }
+      ],
+      "offsetY": [
+       {
+        "frame": 0,
+        "value": -60.0
+       }
+      ]
+     },
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 8
+     }
+    },
+    {
+     "id": "v9x16018",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 1272,
+     "durationInFrames": 195,
+     "trimStart": 6093,
+     "hideSubtitles": true,
+     "keyframes": {
+      "scale": [
+       {
+        "frame": 0,
+        "value": 1.12
+       }
+      ],
+      "offsetY": [
+       {
+        "frame": 0,
+        "value": -60.0
+       }
+      ]
+     },
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 8
+     }
+    }
+   ]
+  },
+  {
+   "id": "t-bg",
+   "kind": "visual",
+   "name": "Nền",
+   "items": [
+    {
+     "id": "v9x16024",
+     "type": "solid",
+     "from": 0,
+     "durationInFrames": 1467,
+     "color": "#1b2a3a",
+     "color2": "#0d141c",
+     "opacity": 1
+    }
+   ]
+  },
+  {
+   "id": "t-audio",
+   "kind": "audio",
+   "name": "Âm thanh",
+   "items": []
+  }
+ ]
+}

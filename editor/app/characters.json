@@ -1,0 +1,270 @@
+{
+  "characters": [
+    {
+      "label": "Người dẫn",
+      "names": [
+        "người dẫn",
+        "dẫn chuyện",
+        "narrator"
+      ],
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+8%",
+        "pitch": "+0Hz"
+      }
+    },
+    {
+      "label": "Người dẫn nữ",
+      "names": [
+        "người dẫn nữ",
+        "nữ"
+      ],
+      "voice": {
+        "voice": "vi-VN-HoaiMyNeural",
+        "rate": "+6%",
+        "pitch": "+0Hz"
+      }
+    },
+    {
+      "label": "Cô giáo",
+      "names": [
+        "cô giáo"
+      ],
+      "sticker": "char-teacher",
+      "voice": {
+        "voice": "vi-VN-HoaiMyNeural",
+        "rate": "+6%",
+        "pitch": "+0Hz"
+      }
+    },
+    {
+      "label": "Bộ đội",
+      "names": [
+        "bộ đội",
+        "việt minh",
+        "vm",
+        "vndcch"
+      ],
+      "sticker": "char-vm",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+6%",
+        "pitch": "+10Hz"
+      }
+    },
+    {
+      "label": "Pháp",
+      "names": [
+        "pháp"
+      ],
+      "sticker": "char-phap",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+18%",
+        "pitch": "-6Hz"
+      }
+    },
+    {
+      "label": "Mỹ",
+      "names": [
+        "mỹ"
+      ],
+      "sticker": "char-my",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "-2%",
+        "pitch": "-20Hz"
+      }
+    },
+    {
+      "label": "Liên Xô",
+      "names": [
+        "liên xô"
+      ],
+      "sticker": "char-lienxo",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "-6%",
+        "pitch": "-30Hz"
+      }
+    },
+    {
+      "label": "Trung Quốc",
+      "names": [
+        "trung quốc"
+      ],
+      "sticker": "char-tq",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+12%",
+        "pitch": "+16Hz"
+      }
+    },
+    {
+      "label": "Anh",
+      "names": [
+        "anh"
+      ],
+      "sticker": "char-anh",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "-6%",
+        "pitch": "-10Hz"
+      }
+    },
+    {
+      "label": "Ngô Đình Diệm",
+      "names": [
+        "ngô đình diệm",
+        "diệm"
+      ],
+      "sticker": "char-diem",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "-4%",
+        "pitch": "+22Hz"
+      }
+    },
+    {
+      "label": "Bảo Đại",
+      "names": [
+        "bảo đại"
+      ],
+      "sticker": "char-baodai",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+0%",
+        "pitch": "+5Hz"
+      }
+    },
+    {
+      "label": "Người dân",
+      "names": [
+        "người dân",
+        "dân"
+      ],
+      "sticker": "char-dan",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+4%",
+        "pitch": "+14Hz"
+      }
+    },
+    {
+      "label": "Níchxơn",
+      "names": [
+        "níchxơn",
+        "nixon"
+      ],
+      "sticker": "char-nixon",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "-2%",
+        "pitch": "-20Hz"
+      }
+    },
+    {
+      "label": "Kítxinhgiơ",
+      "names": [
+        "kítxinhgiơ",
+        "kissinger"
+      ],
+      "sticker": "char-kissinger",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "-10%",
+        "pitch": "-28Hz"
+      }
+    },
+    {
+      "label": "Lê Đức Thọ",
+      "names": [
+        "lê đức thọ",
+        "le duc tho"
+      ],
+      "sticker": "char-letho",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+6%",
+        "pitch": "+10Hz"
+      }
+    },
+    {
+      "label": "Chủ tịch Hồ Chí Minh",
+      "names": [
+        "chủ tịch hồ chí minh",
+        "hồ chí minh",
+        "bác hồ"
+      ],
+      "sticker": "char-hcm",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+8%",
+        "pitch": "+0Hz"
+      }
+    },
+    {
+      "label": "Mao Trạch Đông",
+      "names": [
+        "mao trạch đông",
+        "mao"
+      ],
+      "sticker": "char-mao",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "+12%",
+        "pitch": "+16Hz"
+      }
+    },
+    {
+      "label": "Brêgiơnép",
+      "names": [
+        "brêgiơnép",
+        "brezhnev"
+      ],
+      "sticker": "char-brezhnev",
+      "voice": {
+        "voice": "vi-VN-NamMinhNeural",
+        "rate": "-6%",
+        "pitch": "-30Hz"
+      }
+    }
+  ],
+  "backgrounds": {
+    "giấy": [
+      "#f2e6cc",
+      "#e2cfa6",
+      "#1d1d1d"
+    ],
+    "phòng họp": [
+      "#d8b98c",
+      "#a8875a",
+      "#1d1d1d"
+    ],
+    "bầu trời": [
+      "#a9dcf5",
+      "#8fc46a",
+      "#1d1d1d"
+    ],
+    "bảng đen": [
+      "#2f4f43",
+      "#22392f",
+      "#f4f4ec"
+    ],
+    "đêm": [
+      "#16161c",
+      "#2a2a40",
+      "#f4f4ec"
+    ],
+    "chiến trường": [
+      "#6a8f4a",
+      "#3f5a2a",
+      "#f4f4ec"
+    ],
+    "bản đồ": [
+      "#4f7cc4",
+      "#3d63a3",
+      "#ffffff"
+    ]
+  }
+}

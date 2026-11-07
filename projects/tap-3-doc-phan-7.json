@@ -1,0 +1,2227 @@
+{
+ "id": "tap-3-doc-phan-7",
+ "name": "Tập 3 - Việt Nam hóa (dọc) · phần 7",
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "assets": [
+  {
+   "id": "4ikwrkn3",
+   "kind": "audio",
+   "name": "Tập 3: Việt Nam hóa chiến tranh (1969 - 1973) · Cô giáo",
+   "src": "uploads/giong-ai-64f0aaac906c40f8.mp3",
+   "durationInFrames": 253,
+   "hidden": true
+  },
+  {
+   "id": "uzlgzjun",
+   "kind": "audio",
+   "name": "Tập 3: Việt Nam hóa chiến tranh (1969 - 1973) · Người dẫn",
+   "src": "uploads/giong-ai-762e996aba867b58.mp3",
+   "durationInFrames": 220,
+   "hidden": true
+  },
+  {
+   "id": "judnk71q",
+   "kind": "audio",
+   "name": "Tập 3: Việt Nam hóa chiến tranh (1969 - 1973) · Người dẫn",
+   "src": "uploads/giong-ai-5d47dabc818742de.mp3",
+   "durationInFrames": 150,
+   "hidden": true
+  },
+  {
+   "id": "7b6gl635",
+   "kind": "audio",
+   "name": "Một tổng thống mới · Người dẫn",
+   "src": "uploads/giong-ai-5c8825ed4fcae1e2.mp3",
+   "durationInFrames": 183,
+   "hidden": true
+  },
+  {
+   "id": "nr73krye",
+   "kind": "audio",
+   "name": "Một tổng thống mới · Người dẫn",
+   "src": "uploads/giong-ai-4cbd7c905288072d.mp3",
+   "durationInFrames": 150,
+   "hidden": true
+  },
+  {
+   "id": "taxgsonl",
+   "kind": "audio",
+   "name": "Một tổng thống mới · Người dẫn",
+   "src": "uploads/giong-ai-02c1bc55ba435090.mp3",
+   "durationInFrames": 230,
+   "hidden": true
+  },
+  {
+   "id": "tptfb7kr",
+   "kind": "audio",
+   "name": "Một tổng thống mới · Níchxơn",
+   "src": "uploads/giong-ai-81cab5b96f934e4e.mp3",
+   "durationInFrames": 134,
+   "hidden": true
+  },
+  {
+   "id": "unmbobiy",
+   "kind": "audio",
+   "name": "Một tổng thống mới · Người dẫn",
+   "src": "uploads/giong-ai-37965110fe9cc5a8.mp3",
+   "durationInFrames": 148,
+   "hidden": true
+  },
+  {
+   "id": "je0re77s",
+   "kind": "image",
+   "name": "Richard Nixon, 1972 · Ảnh: Nhà Trắng, phạm vi công cộng",
+   "src": "photos/tap3/nixon.jpg",
+   "hidden": true
+  },
+  {
+   "id": "gmltk04a",
+   "kind": "audio",
+   "name": "Thuyết người điên · Người dẫn",
+   "src": "uploads/giong-ai-ded88a1e40773279.mp3",
+   "durationInFrames": 258,
+   "hidden": true
+  },
+  {
+   "id": "58i4l5k1",
+   "kind": "audio",
+   "name": "Thuyết người điên · Người dẫn",
+   "src": "uploads/giong-ai-95a098cc3c2f669c.mp3",
+   "durationInFrames": 217,
+   "hidden": true
+  },
+  {
+   "id": "rfs952z2",
+   "kind": "audio",
+   "name": "Thuyết người điên · Níchxơn",
+   "src": "uploads/giong-ai-ff9a5e96a923cb7b.mp3",
+   "durationInFrames": 168,
+   "hidden": true
+  },
+  {
+   "id": "f5bd7fge",
+   "kind": "audio",
+   "name": "Thuyết người điên · Người dẫn",
+   "src": "uploads/giong-ai-938498bfb2a3ab3c.mp3",
+   "durationInFrames": 185,
+   "hidden": true
+  },
+  {
+   "id": "wstztp22",
+   "kind": "audio",
+   "name": "Cái bàn ở Pari · Người dẫn",
+   "src": "uploads/giong-ai-0991b16a34464408.mp3",
+   "durationInFrames": 353,
+   "hidden": true
+  },
+  {
+   "id": "2wfgbi01",
+   "kind": "audio",
+   "name": "Cái bàn ở Pari · Bộ đội",
+   "src": "uploads/giong-ai-a48401bbbf3fcf24.mp3",
+   "durationInFrames": 109,
+   "hidden": true
+  },
+  {
+   "id": "38wyya8k",
+   "kind": "audio",
+   "name": "Cái bàn ở Pari · Mỹ",
+   "src": "uploads/giong-ai-6c59821791b44934.mp3",
+   "durationInFrames": 166,
+   "hidden": true
+  },
+  {
+   "id": "8sfhlhrw",
+   "kind": "audio",
+   "name": "Cái bàn ở Pari · Người dẫn",
+   "src": "uploads/giong-ai-0cfbf15e22a355a8.mp3",
+   "durationInFrames": 284,
+   "hidden": true
+  },
+  {
+   "id": "v26qh46t",
+   "kind": "audio",
+   "name": "Cái bàn ở Pari · Người dẫn",
+   "src": "uploads/giong-ai-d752f14d8b3c4120.mp3",
+   "durationInFrames": 332,
+   "hidden": true
+  },
+  {
+   "id": "f0luzu33",
+   "kind": "audio",
+   "name": "Mùa thu năm 1969 · Người dẫn",
+   "src": "uploads/giong-ai-a0d02a78feeabb8a.mp3",
+   "durationInFrames": 145,
+   "hidden": true
+  },
+  {
+   "id": "nyjwl7k7",
+   "kind": "audio",
+   "name": "Mùa thu năm 1969 · Người dẫn nữ",
+   "src": "uploads/giong-ai-8596df686b4ae914.mp3",
+   "durationInFrames": 310,
+   "hidden": true
+  },
+  {
+   "id": "zo1nngi1",
+   "kind": "audio",
+   "name": "Mùa thu năm 1969 · Người dẫn",
+   "src": "uploads/giong-ai-d6c0c8a4568c77d8.mp3",
+   "durationInFrames": 142,
+   "hidden": true
+  },
+  {
+   "id": "qcm225ks",
+   "kind": "audio",
+   "name": "Mùa thu năm 1969 · Người dẫn nữ",
+   "src": "uploads/giong-ai-f6f76206bb9ac0c5.mp3",
+   "durationInFrames": 173,
+   "hidden": true
+  },
+  {
+   "id": "i57a73yh",
+   "kind": "audio",
+   "name": "Mùa thu năm 1969 · Người dân",
+   "src": "uploads/giong-ai-2d5502f97890bf56.mp3",
+   "durationInFrames": 109,
+   "hidden": true
+  },
+  {
+   "id": "762c2cn2",
+   "kind": "image",
+   "name": "Chủ tịch Hồ Chí Minh, khoảng năm 1946 · Ảnh phạm vi công cộng",
+   "src": "photos/tap3/hcm.jpg",
+   "hidden": true
+  },
+  {
+   "id": "4l6vflk6",
+   "kind": "audio",
+   "name": "Việt Nam hóa là gì? · Cô giáo",
+   "src": "uploads/giong-ai-e58ee7b0ad92bba4.mp3",
+   "durationInFrames": 150,
+   "hidden": true
+  },
+  {
+   "id": "qcw1za0o",
+   "kind": "audio",
+   "name": "Việt Nam hóa là gì? · Cô giáo",
+   "src": "uploads/giong-ai-b6978537d2844be1.mp3",
+   "durationInFrames": 207,
+   "hidden": true
+  },
+  {
+   "id": "yghmx2sk",
+   "kind": "audio",
+   "name": "Việt Nam hóa là gì? · Người dẫn",
+   "src": "uploads/giong-ai-a558323f582ac7ef.mp3",
+   "durationInFrames": 322,
+   "hidden": true
+  },
+  {
+   "id": "u9bgkjj6",
+   "kind": "audio",
+   "name": "Việt Nam hóa là gì? · Người dẫn",
+   "src": "uploads/giong-ai-6926c823abdf7bc5.mp3",
+   "durationInFrames": 240,
+   "hidden": true
+  },
+  {
+   "id": "ymv55yl6",
+   "kind": "audio",
+   "name": "Việt Nam hóa là gì? · Níchxơn",
+   "src": "uploads/giong-ai-0d28cb950c8ac727.mp3",
+   "durationInFrames": 176,
+   "hidden": true
+  },
+  {
+   "id": "28ox3i6k",
+   "kind": "audio",
+   "name": "Rút quân · Người dẫn",
+   "src": "uploads/giong-ai-ab425075a5c2c1df.mp3",
+   "durationInFrames": 168,
+   "hidden": true
+  },
+  {
+   "id": "osc60nqt",
+   "kind": "audio",
+   "name": "Rút quân · Người dẫn",
+   "src": "uploads/giong-ai-ff59ee062c8a14ee.mp3",
+   "durationInFrames": 372,
+   "hidden": true
+  },
+  {
+   "id": "yq5o9dwl",
+   "kind": "audio",
+   "name": "Rút quân · Níchxơn",
+   "src": "uploads/giong-ai-b96e8af40835f3be.mp3",
+   "durationInFrames": 123,
+   "hidden": true
+  },
+  {
+   "id": "8yjlvza7",
+   "kind": "audio",
+   "name": "Rút quân · Người dẫn",
+   "src": "uploads/giong-ai-73dfeb03c3948571.mp3",
+   "durationInFrames": 181,
+   "hidden": true
+  },
+  {
+   "id": "6wisr2qj",
+   "kind": "audio",
+   "name": "Rút quân · Người dẫn",
+   "src": "uploads/giong-ai-867cc12733a7c34c.mp3",
+   "durationInFrames": 266,
+   "hidden": true
+  },
+  {
+   "id": "7e94lgra",
+   "kind": "image",
+   "name": "Níchxơn và Nguyễn Văn Thiệu ở đảo Midway, 8/6/1969 · Ảnh: Nhà Trắng, phạm vi công cộng",
+   "src": "photos/tap3/midway.jpg",
+   "hidden": true
+  },
+  {
+   "id": "lfg8w7yh",
+   "kind": "audio",
+   "name": "Đổi người lái · Người dẫn",
+   "src": "uploads/giong-ai-12309fcbdaf94cf9.mp3",
+   "durationInFrames": 208,
+   "hidden": true
+  },
+  {
+   "id": "63ac8cl8",
+   "kind": "audio",
+   "name": "Đổi người lái · Níchxơn",
+   "src": "uploads/giong-ai-a870152a3703b120.mp3",
+   "durationInFrames": 148,
+   "hidden": true
+  },
+  {
+   "id": "y2xeyg4n",
+   "kind": "audio",
+   "name": "Đổi người lái · Bộ đội",
+   "src": "uploads/giong-ai-48e5f3ade5f8ff23.mp3",
+   "durationInFrames": 91,
+   "hidden": true
+  },
+  {
+   "id": "njjd66vb",
+   "kind": "audio",
+   "name": "Đổi người lái · Người dẫn",
+   "src": "uploads/giong-ai-15ef306fe2fd6ca0.mp3",
+   "durationInFrames": 195,
+   "hidden": true
+  },
+  {
+   "id": "x43gux2j",
+   "kind": "audio",
+   "name": "Campuchia, năm 1970 · Người dẫn",
+   "src": "uploads/giong-ai-a62f096947779aa0.mp3",
+   "durationInFrames": 265,
+   "hidden": true
+  },
+  {
+   "id": "tgb09p78",
+   "kind": "audio",
+   "name": "Campuchia, năm 1970 · Níchxơn",
+   "src": "uploads/giong-ai-e082b867959b3bc1.mp3",
+   "durationInFrames": 189,
+   "hidden": true
+  },
+  {
+   "id": "93o38038",
+   "kind": "audio",
+   "name": "Campuchia, năm 1970 · Người dẫn",
+   "src": "uploads/giong-ai-6d3fde45744ec0ae.mp3",
+   "durationInFrames": 142,
+   "hidden": true
+  },
+  {
+   "id": "5aq23e9v",
+   "kind": "audio",
+   "name": "Kent State · Người dẫn",
+   "src": "uploads/giong-ai-c3e057145da8a3c7.mp3",
+   "durationInFrames": 291,
+   "hidden": true
+  },
+  {
+   "id": "ujqgrcmr",
+   "kind": "audio",
+   "name": "Kent State · Người dẫn",
+   "src": "uploads/giong-ai-0378beaf566284a8.mp3",
+   "durationInFrames": 139,
+   "hidden": true
+  },
+  {
+   "id": "4mktxb1h",
+   "kind": "audio",
+   "name": "Kent State · Người dân",
+   "src": "uploads/giong-ai-eebdbe75f93c6299.mp3",
+   "durationInFrames": 126,
+   "hidden": true
+  },
+  {
+   "id": "qotqd50j",
+   "kind": "audio",
+   "name": "Đường 9, Nam Lào · Người dẫn",
+   "src": "uploads/giong-ai-abe9becee39d6d58.mp3",
+   "durationInFrames": 247,
+   "hidden": true
+  },
+  {
+   "id": "2qj3wxlm",
+   "kind": "audio",
+   "name": "Đường 9, Nam Lào · Người dẫn",
+   "src": "uploads/giong-ai-b562f758834f29ee.mp3",
+   "durationInFrames": 213,
+   "hidden": true
+  },
+  {
+   "id": "pz1w9q8s",
+   "kind": "audio",
+   "name": "Đường 9, Nam Lào · Níchxơn",
+   "src": "uploads/giong-ai-948e987947416b8e.mp3",
+   "durationInFrames": 108,
+   "hidden": true
+  },
+  {
+   "id": "i4my8k7n",
+   "kind": "audio",
+   "name": "Đường 9, Nam Lào · Bộ đội",
+   "src": "uploads/giong-ai-34d9bc1756d8b200.mp3",
+   "durationInFrames": 77,
+   "hidden": true
+  },
+  {
+   "id": "fzkfajc1",
+   "kind": "audio",
+   "name": "Đường 9, Nam Lào · Người dẫn",
+   "src": "uploads/giong-ai-02e3fc14d2ef790d.mp3",
+   "durationInFrames": 212,
+   "hidden": true
+  },
+  {
+   "id": "fb2196kc",
+   "kind": "audio",
+   "name": "Đường 9, Nam Lào · Người dẫn",
+   "src": "uploads/giong-ai-9c842d0a958d2880.mp3",
+   "durationInFrames": 194,
+   "hidden": true
+  },
+  {
+   "id": "uzbz3c8o",
+   "kind": "audio",
+   "name": "Đường 9, Nam Lào · Níchxơn",
+   "src": "uploads/giong-ai-2cc3aadd61e07935.mp3",
+   "durationInFrames": 109,
+   "hidden": true
+  },
+  {
+   "id": "286y07fz",
+   "kind": "audio",
+   "name": "Bảy nghìn trang giấy · Người dẫn",
+   "src": "uploads/giong-ai-174aabc34c839840.mp3",
+   "durationInFrames": 284,
+   "hidden": true
+  },
+  {
+   "id": "5xbxek58",
+   "kind": "audio",
+   "name": "Bảy nghìn trang giấy · Người dẫn",
+   "src": "uploads/giong-ai-c1eaaa2e20e0020c.mp3",
+   "durationInFrames": 244,
+   "hidden": true
+  },
+  {
+   "id": "6luhur0f",
+   "kind": "audio",
+   "name": "Bảy nghìn trang giấy · Người dẫn",
+   "src": "uploads/giong-ai-e7e1c833ce9f9b1a.mp3",
+   "durationInFrames": 204,
+   "hidden": true
+  },
+  {
+   "id": "b72p4dtj",
+   "kind": "audio",
+   "name": "Bảy nghìn trang giấy · Níchxơn",
+   "src": "uploads/giong-ai-12b8db7b5dea3b1f.mp3",
+   "durationInFrames": 136,
+   "hidden": true
+  },
+  {
+   "id": "8wk3boem",
+   "kind": "image",
+   "name": "Một trang trong Hồ sơ Lầu Năm Góc · NARA, phạm vi công cộng",
+   "src": "photos/tap3/pentagon.jpg",
+   "hidden": true
+  },
+  {
+   "id": "3k8y2s6x",
+   "kind": "audio",
+   "name": "Một chuyến đi bất ngờ · Người dẫn",
+   "src": "uploads/giong-ai-e7db21106df9207b.mp3",
+   "durationInFrames": 330,
+   "hidden": true
+  },
+  {
+   "id": "44s4x8xc",
+   "kind": "audio",
+   "name": "Một chuyến đi bất ngờ · Mao Trạch Đông",
+   "src": "uploads/giong-ai-e5650cacc6eae46b.mp3",
+   "durationInFrames": 64,
+   "hidden": true
+  },
+  {
+   "id": "6egvlaqa",
+   "kind": "audio",
+   "name": "Một chuyến đi bất ngờ · Níchxơn",
+   "src": "uploads/giong-ai-9e10823a6fe9b545.mp3",
+   "durationInFrames": 213,
+   "hidden": true
+  },
+  {
+   "id": "5rq85hgk",
+   "kind": "audio",
+   "name": "Một chuyến đi bất ngờ · Người dẫn",
+   "src": "uploads/giong-ai-b6e703c0b57474be.mp3",
+   "durationInFrames": 221,
+   "hidden": true
+  },
+  {
+   "id": "o39b4whb",
+   "kind": "image",
+   "name": "Níchxơn gặp Mao Trạch Đông, Bắc Kinh, 21/2/1972 · Ảnh: Nhà Trắng, phạm vi công cộng",
+   "src": "photos/tap3/nixon-mao.jpg",
+   "hidden": true
+  },
+  {
+   "id": "gs411aj9",
+   "kind": "audio",
+   "name": "Liên Xô cũng có mặt · Người dẫn",
+   "src": "uploads/giong-ai-dc3f8eff535c21d0.mp3",
+   "durationInFrames": 304,
+   "hidden": true
+  },
+  {
+   "id": "b3k1tnk0",
+   "kind": "audio",
+   "name": "Liên Xô cũng có mặt · Brêgiơnép",
+   "src": "uploads/giong-ai-a6663353155a7217.mp3",
+   "durationInFrames": 84,
+   "hidden": true
+  },
+  {
+   "id": "47nucgv5",
+   "kind": "audio",
+   "name": "Liên Xô cũng có mặt · Níchxơn",
+   "src": "uploads/giong-ai-e4cd0e52babb1ca8.mp3",
+   "durationInFrames": 161,
+   "hidden": true
+  },
+  {
+   "id": "wprs1366",
+   "kind": "audio",
+   "name": "Liên Xô cũng có mặt · Người dẫn",
+   "src": "uploads/giong-ai-b7ee61f17c32061a.mp3",
+   "durationInFrames": 193,
+   "hidden": true
+  },
+  {
+   "id": "1grp6hbx",
+   "kind": "image",
+   "name": "Níchxơn và Brêgiơnép ký hiệp ước, Mátxcơva, 26/5/1972 · phạm vi công cộng",
+   "src": "photos/tap3/nixon-brezhnev.jpg",
+   "hidden": true
+  },
+  {
+   "id": "jza0o18k",
+   "kind": "audio",
+   "name": "Mùa hè năm 1972 · Người dẫn",
+   "src": "uploads/giong-ai-35e3d252e535d066.mp3",
+   "durationInFrames": 276,
+   "hidden": true
+  },
+  {
+   "id": "uylj127y",
+   "kind": "audio",
+   "name": "Mùa hè năm 1972 · Người dẫn",
+   "src": "uploads/giong-ai-1d81655d9a53b19e.mp3",
+   "durationInFrames": 207,
+   "hidden": true
+  },
+  {
+   "id": "abvss1xs",
+   "kind": "audio",
+   "name": "Mùa hè năm 1972 · Bộ đội",
+   "src": "uploads/giong-ai-ae01193e7e596056.mp3",
+   "durationInFrames": 191,
+   "hidden": true
+  },
+  {
+   "id": "13p93nku",
+   "kind": "audio",
+   "name": "Tám mươi mốt ngày đêm · Người dẫn",
+   "src": "uploads/giong-ai-a2c8a16917f08efc.mp3",
+   "durationInFrames": 236,
+   "hidden": true
+  },
+  {
+   "id": "hpnn52g7",
+   "kind": "audio",
+   "name": "Tám mươi mốt ngày đêm · Người dẫn nữ",
+   "src": "uploads/giong-ai-dabf5bc599a7e51d.mp3",
+   "durationInFrames": 223,
+   "hidden": true
+  },
+  {
+   "id": "scg0bqii",
+   "kind": "audio",
+   "name": "Tám mươi mốt ngày đêm · Người dẫn nữ",
+   "src": "uploads/giong-ai-87d2f334749d861c.mp3",
+   "durationInFrames": 155,
+   "hidden": true
+  },
+  {
+   "id": "2uas52rh",
+   "kind": "audio",
+   "name": "Tám mươi mốt ngày đêm · Người dẫn nữ",
+   "src": "uploads/giong-ai-7ff0432e42460d64.mp3",
+   "durationInFrames": 202,
+   "hidden": true
+  },
+  {
+   "id": "5ul09j8s",
+   "kind": "audio",
+   "name": "Hòa bình trong tầm tay? · Người dẫn",
+   "src": "uploads/giong-ai-3af23c2f78184751.mp3",
+   "durationInFrames": 240,
+   "hidden": true
+  },
+  {
+   "id": "xzcm5ve7",
+   "kind": "audio",
+   "name": "Hòa bình trong tầm tay? · Người dẫn",
+   "src": "uploads/giong-ai-bcde4daf51ac9565.mp3",
+   "durationInFrames": 149,
+   "hidden": true
+  },
+  {
+   "id": "cnnegwh2",
+   "kind": "audio",
+   "name": "Hòa bình trong tầm tay? · Kítxinhgiơ",
+   "src": "uploads/giong-ai-8d79de0f0e335bd8.mp3",
+   "durationInFrames": 80,
+   "hidden": true
+  },
+  {
+   "id": "mvqreaop",
+   "kind": "audio",
+   "name": "Hòa bình trong tầm tay? · Người dẫn",
+   "src": "uploads/giong-ai-485f6c963c87a95d.mp3",
+   "durationInFrames": 213,
+   "hidden": true
+  },
+  {
+   "id": "ff5v7x6o",
+   "kind": "audio",
+   "name": "Hòa bình trong tầm tay? · Lê Đức Thọ",
+   "src": "uploads/giong-ai-e01336c64c500133.mp3",
+   "durationInFrames": 60,
+   "hidden": true
+  },
+  {
+   "id": "5qd5juqy",
+   "kind": "audio",
+   "name": "Hòa bình trong tầm tay? · Kítxinhgiơ",
+   "src": "uploads/giong-ai-40f5a4c5c5b8adbc.mp3",
+   "durationInFrames": 147,
+   "hidden": true
+  },
+  {
+   "id": "j9cq58bg",
+   "kind": "image",
+   "name": "Lê Đức Thọ và Kítxinhgiơ, tháng 1/1973 · Ảnh: Nhà Trắng, phạm vi công cộng",
+   "src": "photos/tap3/tho-kissinger.jpg",
+   "hidden": true
+  },
+  {
+   "id": "8sob0poq",
+   "kind": "audio",
+   "name": "Mười hai ngày đêm · Người dẫn",
+   "src": "uploads/giong-ai-50b8b82cc026522f.mp3",
+   "durationInFrames": 271,
+   "hidden": true
+  },
+  {
+   "id": "w50dj7jc",
+   "kind": "audio",
+   "name": "Mười hai ngày đêm · Người dẫn",
+   "src": "uploads/giong-ai-6a359e3e9c5820fd.mp3",
+   "durationInFrames": 203,
+   "hidden": true
+  },
+  {
+   "id": "2ug1xw3o",
+   "kind": "audio",
+   "name": "Mười hai ngày đêm · Níchxơn",
+   "src": "uploads/giong-ai-d927c6ee140707d7.mp3",
+   "durationInFrames": 123,
+   "hidden": true
+  },
+  {
+   "id": "4q9hbolx",
+   "kind": "audio",
+   "name": "Mười hai ngày đêm · Người dân",
+   "src": "uploads/giong-ai-b903226635701dfb.mp3",
+   "durationInFrames": 129,
+   "hidden": true
+  },
+  {
+   "id": "1wcvefc8",
+   "kind": "image",
+   "name": "B52 ở căn cứ Andersen, Guam, tháng 12/1972 · Không quân Mỹ, phạm vi công cộng",
+   "src": "photos/tap3/b52.jpg",
+   "hidden": true
+  },
+  {
+   "id": "6ara0typ",
+   "kind": "audio",
+   "name": "Điện Biên Phủ trên không · Người dẫn",
+   "src": "uploads/giong-ai-c260a0708f5f7a5f.mp3",
+   "durationInFrames": 215,
+   "hidden": true
+  },
+  {
+   "id": "ndphfj1q",
+   "kind": "audio",
+   "name": "Điện Biên Phủ trên không · Người dẫn",
+   "src": "uploads/giong-ai-a82e04a4b1fa089d.mp3",
+   "durationInFrames": 296,
+   "hidden": true
+  },
+  {
+   "id": "yy7jle5x",
+   "kind": "audio",
+   "name": "Điện Biên Phủ trên không · Bộ đội",
+   "src": "uploads/giong-ai-d8047bfac6f62a8e.mp3",
+   "durationInFrames": 199,
+   "hidden": true
+  },
+  {
+   "id": "o6ca9s9v",
+   "kind": "audio",
+   "name": "Điện Biên Phủ trên không · Người dẫn",
+   "src": "uploads/giong-ai-a8241567ed6f9da4.mp3",
+   "durationInFrames": 124,
+   "hidden": true
+  },
+  {
+   "id": "hxg6v9s8",
+   "kind": "audio",
+   "name": "Quay lại cái bàn tròn · Người dẫn",
+   "src": "uploads/giong-ai-84f04f7ca7609e51.mp3",
+   "durationInFrames": 236,
+   "hidden": true
+  },
+  {
+   "id": "np4jnje8",
+   "kind": "audio",
+   "name": "Quay lại cái bàn tròn · Người dẫn",
+   "src": "uploads/giong-ai-0d2e6165d56d22a1.mp3",
+   "durationInFrames": 83,
+   "hidden": true
+  },
+  {
+   "id": "0pl11c8v",
+   "kind": "audio",
+   "name": "Quay lại cái bàn tròn · Kítxinhgiơ",
+   "src": "uploads/giong-ai-e94f1e6e1b73a796.mp3",
+   "durationInFrames": 175,
+   "hidden": true
+  },
+  {
+   "id": "7phenycf",
+   "kind": "audio",
+   "name": "Quay lại cái bàn tròn · Lê Đức Thọ",
+   "src": "uploads/giong-ai-f1c2cdd6f22178b3.mp3",
+   "durationInFrames": 63,
+   "hidden": true
+  },
+  {
+   "id": "haiomgt1",
+   "kind": "audio",
+   "name": "Hiệp định Pari · Người dẫn",
+   "src": "uploads/giong-ai-d963f331eabc24d9.mp3",
+   "durationInFrames": 225,
+   "hidden": true
+  },
+  {
+   "id": "5qbm7nh1",
+   "kind": "audio",
+   "name": "Hiệp định Pari · Người dẫn",
+   "src": "uploads/giong-ai-83cb64c40595c0dd.mp3",
+   "durationInFrames": 234,
+   "hidden": true
+  },
+  {
+   "id": "ay0901zd",
+   "kind": "audio",
+   "name": "Hiệp định Pari · Cô giáo",
+   "src": "uploads/giong-ai-125e29d5e8560cc9.mp3",
+   "durationInFrames": 127,
+   "hidden": true
+  },
+  {
+   "id": "66xejrwu",
+   "kind": "audio",
+   "name": "Hiệp định Pari · Cô giáo",
+   "src": "uploads/giong-ai-6f94828df646beca.mp3",
+   "durationInFrames": 267,
+   "hidden": true
+  },
+  {
+   "id": "r1uj5vxk",
+   "kind": "audio",
+   "name": "Hiệp định Pari · Cô giáo",
+   "src": "uploads/giong-ai-f7ccde6ef7cbdc95.mp3",
+   "durationInFrames": 228,
+   "hidden": true
+  },
+  {
+   "id": "yqf5tseb",
+   "kind": "audio",
+   "name": "Hiệp định Pari · Cô giáo",
+   "src": "uploads/giong-ai-a8f9bbbc5a840cfa.mp3",
+   "durationInFrames": 116,
+   "hidden": true
+  },
+  {
+   "id": "6h8y9z7m",
+   "kind": "image",
+   "name": "Lễ ký Hiệp định Pari, 27/1/1973 · NARA, phạm vi công cộng",
+   "src": "photos/tap3/paris-signing.jpg",
+   "hidden": true
+  },
+  {
+   "id": "pws6rq27",
+   "kind": "audio",
+   "name": "Gần năm năm · Người dẫn",
+   "src": "uploads/giong-ai-d3e227e2d95d14c6.mp3",
+   "durationInFrames": 234,
+   "hidden": true
+  },
+  {
+   "id": "5voyxqex",
+   "kind": "audio",
+   "name": "Gần năm năm · Níchxơn",
+   "src": "uploads/giong-ai-2149daa0a9613034.mp3",
+   "durationInFrames": 104,
+   "hidden": true
+  },
+  {
+   "id": "nix1g6eh",
+   "kind": "audio",
+   "name": "Gần năm năm · Người dẫn",
+   "src": "uploads/giong-ai-a2686877ce2ed26a.mp3",
+   "durationInFrames": 87,
+   "hidden": true
+  },
+  {
+   "id": "9t6uigxr",
+   "kind": "audio",
+   "name": "Giải Nôben · Người dẫn",
+   "src": "uploads/giong-ai-88490679384aabf0.mp3",
+   "durationInFrames": 164,
+   "hidden": true
+  },
+  {
+   "id": "qsengg5z",
+   "kind": "audio",
+   "name": "Giải Nôben · Người dẫn",
+   "src": "uploads/giong-ai-fc4edf330eb6de35.mp3",
+   "durationInFrames": 301,
+   "hidden": true
+  },
+  {
+   "id": "ygjimv2n",
+   "kind": "audio",
+   "name": "Giải Nôben · Lê Đức Thọ",
+   "src": "uploads/giong-ai-36ee3793b201140c.mp3",
+   "durationInFrames": 106,
+   "hidden": true
+  },
+  {
+   "id": "ff76kse3",
+   "kind": "audio",
+   "name": "Ngày 29 tháng 3 · Người dẫn",
+   "src": "uploads/giong-ai-41d1249d658774f6.mp3",
+   "durationInFrames": 203,
+   "hidden": true
+  },
+  {
+   "id": "xtewl9q4",
+   "kind": "audio",
+   "name": "Ngày 29 tháng 3 · Níchxơn",
+   "src": "uploads/giong-ai-9ebda615fe83a909.mp3",
+   "durationInFrames": 70,
+   "hidden": true
+  },
+  {
+   "id": "8mu1km2q",
+   "kind": "audio",
+   "name": "Ngày 29 tháng 3 · Người dẫn",
+   "src": "uploads/giong-ai-91e57381fca22582.mp3",
+   "durationInFrames": 149,
+   "hidden": true
+  },
+  {
+   "id": "nsroqzfa",
+   "kind": "audio",
+   "name": "Nhưng chưa xong · Người dẫn",
+   "src": "uploads/giong-ai-f4a7cf62778c8492.mp3",
+   "durationInFrames": 212,
+   "hidden": true
+  },
+  {
+   "id": "pmp32ubz",
+   "kind": "audio",
+   "name": "Nhưng chưa xong · Người dẫn",
+   "src": "uploads/giong-ai-a32596ff79743acb.mp3",
+   "durationInFrames": 153,
+   "hidden": true
+  },
+  {
+   "id": "e9virvvp",
+   "kind": "audio",
+   "name": "Tóm lại · Cô giáo",
+   "src": "uploads/giong-ai-23a6bc44199f5ea6.mp3",
+   "durationInFrames": 387,
+   "hidden": true
+  },
+  {
+   "id": "d9o63q11",
+   "kind": "audio",
+   "name": "Tóm lại · Cô giáo",
+   "src": "uploads/giong-ai-84aca071eea33c10.mp3",
+   "durationInFrames": 142,
+   "hidden": true
+  },
+  {
+   "id": "yl5wi6f5",
+   "kind": "audio",
+   "name": "Tóm lại · Cô giáo",
+   "src": "uploads/giong-ai-a8101538118bf428.mp3",
+   "durationInFrames": 205,
+   "hidden": true
+  },
+  {
+   "id": "ktt2voih",
+   "kind": "audio",
+   "name": "Nhạc nền mẫu",
+   "src": "geneva/music.wav",
+   "durationInFrames": 12480
+  }
+ ],
+ "tracks": [
+  {
+   "id": "p7x0084",
+   "kind": "text",
+   "name": "Tiêu đề",
+   "items": [
+    {
+     "id": "p7x0081",
+     "type": "text",
+     "from": 0,
+     "durationInFrames": 1807,
+     "x": 540,
+     "y": 330,
+     "text": "Níchxơn bắt tay\nMao Trạch Đông",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 88,
+     "color": "#ffd54a",
+     "strokeColor": "#000000",
+     "strokeWidth": 10,
+     "bold": false,
+     "background": "",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     }
+    },
+    {
+     "id": "p7x0082",
+     "type": "text",
+     "from": 0,
+     "durationInFrames": 1807,
+     "x": 540,
+     "y": 505,
+     "text": "Việt Nam hóa chiến tranh · Phần 7/11",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 42,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 6,
+     "bold": false,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0083",
+     "type": "text",
+     "from": 1612,
+     "durationInFrames": 195,
+     "x": 540,
+     "y": 1610,
+     "text": "Phần 8: Thành cổ Quảng Trị\n👉 Theo dõi để xem tiếp",
+     "fontFamily": "Arial",
+     "fontSize": 48,
+     "color": "#1d1d1d",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": true,
+     "background": "#ffd54a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     }
+    }
+   ]
+  },
+  {
+   "id": "p7x0085",
+   "kind": "text",
+   "name": "Phụ đề",
+   "items": [
+    {
+     "id": "p7x0026",
+     "type": "text",
+     "from": 15,
+     "durationInFrames": 21,
+     "x": 540,
+     "y": 1470,
+     "text": "Rồi tháng 2",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0027",
+     "type": "text",
+     "from": 36,
+     "durationInFrames": 22,
+     "x": 540,
+     "y": 1470,
+     "text": "năm 1972,",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0028",
+     "type": "text",
+     "from": 58,
+     "durationInFrames": 21,
+     "x": 540,
+     "y": 1470,
+     "text": "cả thế giới",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0029",
+     "type": "text",
+     "from": 79,
+     "durationInFrames": 20,
+     "x": 540,
+     "y": 1470,
+     "text": "bất ngờ:",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0030",
+     "type": "text",
+     "from": 99,
+     "durationInFrames": 30,
+     "x": 540,
+     "y": 1470,
+     "text": "Níchxơn bay sang",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0031",
+     "type": "text",
+     "from": 129,
+     "durationInFrames": 23,
+     "x": 540,
+     "y": 1470,
+     "text": "Bắc Kinh,",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0032",
+     "type": "text",
+     "from": 152,
+     "durationInFrames": 21,
+     "x": 540,
+     "y": 1470,
+     "text": "bắt tay Mao",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0033",
+     "type": "text",
+     "from": 173,
+     "durationInFrames": 26,
+     "x": 540,
+     "y": 1470,
+     "text": "Trạch Đông.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0034",
+     "type": "text",
+     "from": 199,
+     "durationInFrames": 36,
+     "x": 540,
+     "y": 1470,
+     "text": "Ông là tổng thống",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0035",
+     "type": "text",
+     "from": 235,
+     "durationInFrames": 29,
+     "x": 540,
+     "y": 1470,
+     "text": "Mỹ đương nhiệm",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0036",
+     "type": "text",
+     "from": 264,
+     "durationInFrames": 36,
+     "x": 540,
+     "y": 1470,
+     "text": "đầu tiên đặt chân",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0037",
+     "type": "text",
+     "from": 300,
+     "durationInFrames": 29,
+     "x": 540,
+     "y": 1470,
+     "text": "tới Trung Quốc",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0038",
+     "type": "text",
+     "from": 329,
+     "durationInFrames": 16,
+     "x": 540,
+     "y": 1470,
+     "text": "đại lục.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0039",
+     "type": "text",
+     "from": 354,
+     "durationInFrames": 32,
+     "x": 540,
+     "y": 1470,
+     "text": "Chào mừng ngài",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0040",
+     "type": "text",
+     "from": 386,
+     "durationInFrames": 32,
+     "x": 540,
+     "y": 1470,
+     "text": "tổng thống.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0041",
+     "type": "text",
+     "from": 427,
+     "durationInFrames": 30,
+     "x": 540,
+     "y": 1470,
+     "text": "Rất vui.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0042",
+     "type": "text",
+     "from": 457,
+     "durationInFrames": 34,
+     "x": 540,
+     "y": 1470,
+     "text": "Hôm nay chúng",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0043",
+     "type": "text",
+     "from": 491,
+     "durationInFrames": 22,
+     "x": 540,
+     "y": 1470,
+     "text": "ta không",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0044",
+     "type": "text",
+     "from": 513,
+     "durationInFrames": 44,
+     "x": 540,
+     "y": 1470,
+     "text": "bàn về Việt Nam.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0045",
+     "type": "text",
+     "from": 557,
+     "durationInFrames": 34,
+     "x": 540,
+     "y": 1470,
+     "text": "Mà thật ra là",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0046",
+     "type": "text",
+     "from": 591,
+     "durationInFrames": 49,
+     "x": 540,
+     "y": 1470,
+     "text": "có bàn một chút.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0047",
+     "type": "text",
+     "from": 649,
+     "durationInFrames": 30,
+     "x": 540,
+     "y": 1470,
+     "text": "Người ta gọi đây",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0048",
+     "type": "text",
+     "from": 679,
+     "durationInFrames": 24,
+     "x": 540,
+     "y": 1470,
+     "text": "là ngoại giao",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0049",
+     "type": "text",
+     "from": 703,
+     "durationInFrames": 19,
+     "x": 540,
+     "y": 1470,
+     "text": "tam giác:",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0050",
+     "type": "text",
+     "from": 722,
+     "durationInFrames": 18,
+     "x": 540,
+     "y": 1470,
+     "text": "bắt tay với",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0051",
+     "type": "text",
+     "from": 740,
+     "durationInFrames": 23,
+     "x": 540,
+     "y": 1470,
+     "text": "Trung Quốc,",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0052",
+     "type": "text",
+     "from": 763,
+     "durationInFrames": 22,
+     "x": 540,
+     "y": 1470,
+     "text": "để gây sức ép",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0053",
+     "type": "text",
+     "from": 785,
+     "durationInFrames": 25,
+     "x": 540,
+     "y": 1470,
+     "text": "lên Liên Xô,",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0054",
+     "type": "text",
+     "from": 810,
+     "durationInFrames": 14,
+     "x": 540,
+     "y": 1470,
+     "text": "và để cả",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0055",
+     "type": "text",
+     "from": 824,
+     "durationInFrames": 20,
+     "x": 540,
+     "y": 1470,
+     "text": "hai bớt ủng",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0056",
+     "type": "text",
+     "from": 844,
+     "durationInFrames": 26,
+     "x": 540,
+     "y": 1470,
+     "text": "hộ Việt Nam.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0057",
+     "type": "text",
+     "from": 909,
+     "durationInFrames": 22,
+     "x": 540,
+     "y": 1470,
+     "text": "Đầu tháng 5",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0058",
+     "type": "text",
+     "from": 931,
+     "durationInFrames": 25,
+     "x": 540,
+     "y": 1470,
+     "text": "năm 1972,",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0059",
+     "type": "text",
+     "from": 956,
+     "durationInFrames": 32,
+     "x": 540,
+     "y": 1470,
+     "text": "Mỹ cho thả mìn",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0060",
+     "type": "text",
+     "from": 988,
+     "durationInFrames": 41,
+     "x": 540,
+     "y": 1470,
+     "text": "phong tỏa cảng Hải",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0061",
+     "type": "text",
+     "from": 1029,
+     "durationInFrames": 16,
+     "x": 540,
+     "y": 1470,
+     "text": "Phòng.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0062",
+     "type": "text",
+     "from": 1045,
+     "durationInFrames": 37,
+     "x": 540,
+     "y": 1470,
+     "text": "Chỉ hai tuần sau,",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0063",
+     "type": "text",
+     "from": 1082,
+     "durationInFrames": 37,
+     "x": 540,
+     "y": 1470,
+     "text": "Níchxơn vẫn sang",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0064",
+     "type": "text",
+     "from": 1119,
+     "durationInFrames": 27,
+     "x": 540,
+     "y": 1470,
+     "text": "Mátxcơva gặp",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0065",
+     "type": "text",
+     "from": 1146,
+     "durationInFrames": 33,
+     "x": 540,
+     "y": 1470,
+     "text": "lãnh đạo Liên Xô",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0066",
+     "type": "text",
+     "from": 1179,
+     "durationInFrames": 34,
+     "x": 540,
+     "y": 1470,
+     "text": "như kế hoạch.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0067",
+     "type": "text",
+     "from": 1222,
+     "durationInFrames": 37,
+     "x": 540,
+     "y": 1470,
+     "text": "Chúng tôi vẫn là",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0068",
+     "type": "text",
+     "from": 1259,
+     "durationInFrames": 47,
+     "x": 540,
+     "y": 1470,
+     "text": "bạn của Việt Nam.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0069",
+     "type": "text",
+     "from": 1315,
+     "durationInFrames": 37,
+     "x": 540,
+     "y": 1470,
+     "text": "Tất nhiên rồi.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0070",
+     "type": "text",
+     "from": 1352,
+     "durationInFrames": 31,
+     "x": 540,
+     "y": 1470,
+     "text": "Nhưng chúng ta",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0071",
+     "type": "text",
+     "from": 1383,
+     "durationInFrames": 34,
+     "x": 540,
+     "y": 1470,
+     "text": "cũng có thể là",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0072",
+     "type": "text",
+     "from": 1417,
+     "durationInFrames": 38,
+     "x": 540,
+     "y": 1470,
+     "text": "bạn với nhau một",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0073",
+     "type": "text",
+     "from": 1455,
+     "durationInFrames": 21,
+     "x": 540,
+     "y": 1470,
+     "text": "chút chứ.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0074",
+     "type": "text",
+     "from": 1485,
+     "durationInFrames": 31,
+     "x": 540,
+     "y": 1470,
+     "text": "Đây là lúc Việt",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0075",
+     "type": "text",
+     "from": 1516,
+     "durationInFrames": 33,
+     "x": 540,
+     "y": 1470,
+     "text": "Nam phải tự mình",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0076",
+     "type": "text",
+     "from": 1549,
+     "durationInFrames": 32,
+     "x": 540,
+     "y": 1470,
+     "text": "giữ thế đứng giữa",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0077",
+     "type": "text",
+     "from": 1581,
+     "durationInFrames": 28,
+     "x": 540,
+     "y": 1470,
+     "text": "ba nước lớn.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0078",
+     "type": "text",
+     "from": 1609,
+     "durationInFrames": 29,
+     "x": 540,
+     "y": 1470,
+     "text": "Và câu trả lời",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0079",
+     "type": "text",
+     "from": 1638,
+     "durationInFrames": 25,
+     "x": 540,
+     "y": 1470,
+     "text": "đến từ chiến",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0080",
+     "type": "text",
+     "from": 1663,
+     "durationInFrames": 15,
+     "x": 540,
+     "y": 1470,
+     "text": "trường.",
+     "fontFamily": "Arial",
+     "fontSize": 64,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 12,
+     "bold": true,
+     "background": "",
+     "opacity": 1
+    }
+   ]
+  },
+  {
+   "id": "p7x0003",
+   "kind": "visual",
+   "name": "Ảnh tư liệu",
+   "items": [
+    {
+     "id": "p7x0001",
+     "type": "image",
+     "assetId": "o39b4whb",
+     "from": 15,
+     "durationInFrames": 330,
+     "x": 162,
+     "y": 576,
+     "width": 756,
+     "height": 514.08,
+     "opacity": 1,
+     "card": {
+      "caption": "Níchxơn gặp Mao Trạch Đông, Bắc Kinh, 21/2/1972 · Ảnh: Nhà Trắng, phạm vi công cộng",
+      "tilt": -1.5
+     },
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 8
+     }
+    },
+    {
+     "id": "p7x0002",
+     "type": "image",
+     "assetId": "1grp6hbx",
+     "from": 909,
+     "durationInFrames": 304,
+     "x": 162,
+     "y": 576,
+     "width": 756,
+     "height": 514.08,
+     "opacity": 1,
+     "card": {
+      "caption": "Níchxơn và Brêgiơnép ký hiệp ước, Mátxcơva, 26/5/1972 · phạm vi công cộng",
+      "tilt": -1.5
+     },
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 10
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 8
+     }
+    }
+   ]
+  },
+  {
+   "id": "p7x0006",
+   "kind": "visual",
+   "name": "Nhân vật 1",
+   "items": [
+    {
+     "id": "p7x0004",
+     "type": "sticker",
+     "sticker": "char-nixon",
+     "from": 0,
+     "durationInFrames": 894,
+     "x": 360,
+     "y": 1056,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "talkRanges": [
+      [
+       427,
+       640
+      ]
+     ]
+    },
+    {
+     "id": "p7x0005",
+     "type": "sticker",
+     "sticker": "char-nixon",
+     "from": 894,
+     "durationInFrames": 913,
+     "x": 360,
+     "y": 1056,
+     "size": 594,
+     "flip": false,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       421,
+       582
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p7x0009",
+   "kind": "visual",
+   "name": "Nhân vật 2",
+   "items": [
+    {
+     "id": "p7x0007",
+     "type": "sticker",
+     "sticker": "char-mao",
+     "from": 0,
+     "durationInFrames": 894,
+     "x": 720,
+     "y": 1056,
+     "size": 594,
+     "flip": true,
+     "opacity": 1,
+     "talkRanges": [
+      [
+       354,
+       418
+      ]
+     ]
+    },
+    {
+     "id": "p7x0008",
+     "type": "sticker",
+     "sticker": "char-brezhnev",
+     "from": 894,
+     "durationInFrames": 913,
+     "x": 720,
+     "y": 1056,
+     "size": 594,
+     "flip": true,
+     "opacity": 1,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 12
+     },
+     "talkRanges": [
+      [
+       328,
+       412
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p7x0010",
+   "kind": "visual",
+   "name": "Bản đồ",
+   "items": []
+  },
+  {
+   "id": "p7x0013",
+   "kind": "visual",
+   "name": "Nền cảnh",
+   "items": [
+    {
+     "id": "p7x0011",
+     "type": "solid",
+     "from": 0,
+     "durationInFrames": 894,
+     "color": "#d8b98c",
+     "color2": "#a8875a",
+     "opacity": 1
+    },
+    {
+     "id": "p7x0012",
+     "type": "solid",
+     "from": 894,
+     "durationInFrames": 913,
+     "color": "#d8b98c",
+     "color2": "#a8875a",
+     "opacity": 1,
+     "transitionIn": {
+      "type": "fade",
+      "durationInFrames": 10
+     }
+    }
+   ]
+  },
+  {
+   "id": "p7x0022",
+   "kind": "audio",
+   "name": "Giọng đọc",
+   "items": [
+    {
+     "id": "p7x0014",
+     "type": "audio",
+     "assetId": "3k8y2s6x",
+     "from": 15,
+     "durationInFrames": 330,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "p7x0015",
+     "type": "audio",
+     "assetId": "44s4x8xc",
+     "from": 354,
+     "durationInFrames": 64,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "p7x0016",
+     "type": "audio",
+     "assetId": "6egvlaqa",
+     "from": 427,
+     "durationInFrames": 213,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "p7x0017",
+     "type": "audio",
+     "assetId": "5rq85hgk",
+     "from": 649,
+     "durationInFrames": 221,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "p7x0018",
+     "type": "audio",
+     "assetId": "gs411aj9",
+     "from": 909,
+     "durationInFrames": 304,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "p7x0019",
+     "type": "audio",
+     "assetId": "b3k1tnk0",
+     "from": 1222,
+     "durationInFrames": 84,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "p7x0020",
+     "type": "audio",
+     "assetId": "47nucgv5",
+     "from": 1315,
+     "durationInFrames": 161,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "p7x0021",
+     "type": "audio",
+     "assetId": "wprs1366",
+     "from": 1485,
+     "durationInFrames": 193,
+     "trimStart": 0,
+     "volume": 1
+    }
+   ]
+  },
+  {
+   "id": "p7x0025",
+   "kind": "audio",
+   "name": "Nhạc nền",
+   "items": [
+    {
+     "id": "p7x0023",
+     "type": "audio",
+     "assetId": "ktt2voih",
+     "from": 0,
+     "durationInFrames": 1197,
+     "trimStart": 11283,
+     "volume": 0.14,
+     "fadeOut": 0
+    },
+    {
+     "id": "p7x0024",
+     "type": "audio",
+     "assetId": "ktt2voih",
+     "from": 1197,
+     "durationInFrames": 505,
+     "trimStart": 0,
+     "volume": 0.14,
+     "fadeOut": 45
+    }
+   ]
+  }
+ ]
+}

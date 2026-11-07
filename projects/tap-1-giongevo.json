@@ -1,0 +1,741 @@
+{
+ "id": "tap-1-giongevo",
+ "name": "Tập 1 - Hiệp định Giơnevơ",
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "assets": [
+  {
+   "id": "d57jtt0f",
+   "kind": "audio",
+   "name": "mo-dau · câu 1",
+   "src": "geneva/voice/00-00.mp3",
+   "durationInFrames": 239,
+   "hidden": true
+  },
+  {
+   "id": "1el3avku",
+   "kind": "audio",
+   "name": "mo-dau · câu 2",
+   "src": "geneva/voice/00-01.mp3",
+   "durationInFrames": 119,
+   "hidden": true
+  },
+  {
+   "id": "y94urnne",
+   "kind": "audio",
+   "name": "mo-dau · câu 3",
+   "src": "geneva/voice/00-02.mp3",
+   "durationInFrames": 200,
+   "hidden": true
+  },
+  {
+   "id": "q15bhskw",
+   "kind": "audio",
+   "name": "mo-dau · câu 4",
+   "src": "geneva/voice/00-03.mp3",
+   "durationInFrames": 173,
+   "hidden": true
+  },
+  {
+   "id": "tmrgvu1m",
+   "kind": "audio",
+   "name": "Nhạc nền tập 1",
+   "src": "geneva/music.wav",
+   "durationInFrames": 12447,
+   "hidden": false
+  },
+  {
+   "id": "frzqex2b",
+   "kind": "audio",
+   "name": "domino · câu 1",
+   "src": "geneva/voice/03-00.mp3",
+   "durationInFrames": 184,
+   "hidden": true
+  },
+  {
+   "id": "0db7hukh",
+   "kind": "audio",
+   "name": "domino · câu 2",
+   "src": "geneva/voice/03-01.mp3",
+   "durationInFrames": 178,
+   "hidden": true
+  },
+  {
+   "id": "yyjewgy1",
+   "kind": "audio",
+   "name": "domino · câu 3",
+   "src": "geneva/voice/03-02.mp3",
+   "durationInFrames": 256,
+   "hidden": true
+  },
+  {
+   "id": "duzw86bc",
+   "kind": "audio",
+   "name": "domino · câu 4",
+   "src": "geneva/voice/03-03.mp3",
+   "durationInFrames": 72,
+   "hidden": true
+  },
+  {
+   "id": "sp3t6fsp",
+   "kind": "audio",
+   "name": "domino · câu 5",
+   "src": "geneva/voice/03-04.mp3",
+   "durationInFrames": 114,
+   "hidden": true
+  }
+ ],
+ "tracks": [
+  {
+   "id": "outlpbq2",
+   "kind": "text",
+   "name": "Chữ intro",
+   "items": [
+    {
+     "id": "66klraxs",
+     "type": "text",
+     "fontFamily": "Pacifico",
+     "fontSize": 130,
+     "color": "#ffffff",
+     "strokeColor": "#111111",
+     "strokeWidth": 8,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 432,
+     "opacity": 1,
+     "text": "Tên kênh của bạn",
+     "from": 0,
+     "durationInFrames": 120,
+     "transitionIn": {
+      "type": "pop",
+      "durationInFrames": 18
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 12
+     }
+    },
+    {
+     "id": "yihsde6z",
+     "type": "text",
+     "fontFamily": "Patrick Hand",
+     "fontSize": 72,
+     "color": "#ffffff",
+     "strokeColor": "#111111",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "",
+     "x": 960,
+     "y": 604.8000000000002,
+     "opacity": 1,
+     "text": "Tập 1: Tiêu đề tập",
+     "from": 21,
+     "durationInFrames": 99,
+     "transitionIn": {
+      "type": "typewriter",
+      "durationInFrames": 30
+     },
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 12
+     }
+    }
+   ]
+  },
+  {
+   "id": "ll91m6jt",
+   "kind": "text",
+   "name": "Phụ đề",
+   "items": [
+    {
+     "id": "wteg6i1j",
+     "type": "text",
+     "from": 1955,
+     "durationInFrames": 73,
+     "x": 960,
+     "y": 990,
+     "text": "Trong lúc đó, ở bên kia Thái Bình Dương,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "zp38dt4w",
+     "type": "text",
+     "from": 2028,
+     "durationInFrames": 104,
+     "x": 960,
+     "y": 990,
+     "text": "nước Mỹ đang rất lo lắng về một thứ gọi là thuyết Đôminô.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "lt28qk3q",
+     "type": "text",
+     "from": 2143,
+     "durationInFrames": 147,
+     "x": 960,
+     "y": 990,
+     "text": "Nếu Đông Dương theo cộng sản, cả Đông Nam Á sẽ đổ theo như những quân",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "pi368i8g",
+     "type": "text",
+     "from": 2290,
+     "durationInFrames": 24,
+     "x": 960,
+     "y": 990,
+     "text": "bài đôminô!",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "5so3nky3",
+     "type": "text",
+     "from": 2325,
+     "durationInFrames": 73,
+     "x": 960,
+     "y": 990,
+     "text": "Vì vậy Mỹ quyết định rút ví.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "mij1m02p",
+     "type": "text",
+     "from": 2398,
+     "durationInFrames": 175,
+     "x": 960,
+     "y": 990,
+     "text": "Đến năm 1954, Mỹ gánh gần 80% chi phí chiến tranh của Pháp ở Đông Dương.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "s5zdrbmr",
+     "type": "text",
+     "from": 2585,
+     "durationInFrames": 65,
+     "x": 960,
+     "y": 990,
+     "text": "Merci, anh bạn.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "gyv2bmxe",
+     "type": "text",
+     "from": 2661,
+     "durationInFrames": 107,
+     "x": 960,
+     "y": 990,
+     "text": "Nói cách khác: Pháp đánh, còn Mỹ trả tiền.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    }
+   ]
+  },
+  {
+   "id": "8yzj0m71",
+   "kind": "text",
+   "name": "Phụ đề",
+   "items": [
+    {
+     "id": "pw04pm3u",
+     "type": "text",
+     "from": 18,
+     "durationInFrames": 102,
+     "x": 960,
+     "y": 990,
+     "text": "Năm 1954, quân và dân Việt Nam vừa thắng một trận lớn,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "z9l6uyo5",
+     "type": "text",
+     "from": 120,
+     "durationInFrames": 130,
+     "x": 960,
+     "y": 990,
+     "text": "đúng lúc cả thế giới đang ngồi lại với nhau để họp bàn về Đông Dương.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "dofdat07",
+     "type": "text",
+     "from": 261,
+     "durationInFrames": 113,
+     "x": 960,
+     "y": 990,
+     "text": "Và kết quả của cuộc họp đó là... đất nước bị chia làm đôi.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "bqubxdll",
+     "type": "text",
+     "from": 402,
+     "durationInFrames": 47,
+     "x": 960,
+     "y": 990,
+     "text": "Khoan đã.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "8gawg1vd",
+     "type": "text",
+     "from": 449,
+     "durationInFrames": 67,
+     "x": 960,
+     "y": 990,
+     "text": "Thắng trận mà lại bị chia đôi?",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "5aqd5h5j",
+     "type": "text",
+     "from": 516,
+     "durationInFrames": 77,
+     "x": 960,
+     "y": 990,
+     "text": "Nghe có gì đó sai sai đúng không?",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "cklah5kw",
+     "type": "text",
+     "from": 606,
+     "durationInFrames": 109,
+     "x": 960,
+     "y": 990,
+     "text": "Để hiểu chuyện này, chúng ta phải quay lại phòng họp ở Giơnevơ,",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    },
+    {
+     "id": "xq456ykb",
+     "type": "text",
+     "from": 715,
+     "durationInFrames": 58,
+     "x": 960,
+     "y": 990,
+     "text": "và cả những năm tháng sau đó nữa.",
+     "fontFamily": "Arial",
+     "fontSize": 46,
+     "color": "#ffffff",
+     "strokeColor": "#000000",
+     "strokeWidth": 0,
+     "bold": false,
+     "background": "rgba(0,0,0,0.75)",
+     "opacity": 1
+    }
+   ]
+  },
+  {
+   "id": "ns9thfqm",
+   "kind": "text",
+   "name": "Chữ 1",
+   "items": []
+  },
+  {
+   "id": "op5aaim4",
+   "kind": "visual",
+   "name": "Intro",
+   "items": [
+    {
+     "id": "u8fjwjmz",
+     "type": "solid",
+     "from": 0,
+     "durationInFrames": 120,
+     "color": "#1f3c88",
+     "color2": "#b3261e",
+     "opacity": 1,
+     "transitionOut": {
+      "type": "fade",
+      "durationInFrames": 12
+     }
+    },
+    {
+     "id": "xz4yfpo0",
+     "type": "sticker",
+     "flip": false,
+     "opacity": 1,
+     "sticker": "flag-vn",
+     "from": 9,
+     "durationInFrames": 111,
+     "x": 1574.3999999999999,
+     "y": 669.5999999999999,
+     "size": 486,
+     "transitionIn": {
+      "type": "slide-right",
+      "durationInFrames": 15
+     }
+    }
+   ]
+  },
+  {
+   "id": "vrit260n",
+   "kind": "visual",
+   "name": "Hình 1",
+   "items": [
+    {
+     "id": "xdwem7rh",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 0,
+     "durationInFrames": 792,
+     "trimStart": 0,
+     "muteAudio": true,
+     "hideSubtitles": true
+    },
+    {
+     "id": "aciyn30w",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 792,
+     "durationInFrames": 419,
+     "trimStart": 792
+    },
+    {
+     "id": "b2l6pzhz",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 1211,
+     "durationInFrames": 726,
+     "trimStart": 1211
+    },
+    {
+     "id": "mh0bvowy",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 1937,
+     "durationInFrames": 851,
+     "trimStart": 1937,
+     "muteAudio": true,
+     "hideSubtitles": true
+    },
+    {
+     "id": "uir2w2qd",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 2788,
+     "durationInFrames": 834,
+     "trimStart": 2788
+    },
+    {
+     "id": "v7hs2j30",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 3622,
+     "durationInFrames": 955,
+     "trimStart": 3622
+    },
+    {
+     "id": "6nslbe4v",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 4577,
+     "durationInFrames": 1137,
+     "trimStart": 4577
+    },
+    {
+     "id": "sqkk1wty",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 5714,
+     "durationInFrames": 1091,
+     "trimStart": 5714
+    },
+    {
+     "id": "iarlogm2",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 6805,
+     "durationInFrames": 496,
+     "trimStart": 6805
+    },
+    {
+     "id": "qltqnca8",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 7301,
+     "durationInFrames": 706,
+     "trimStart": 7301
+    },
+    {
+     "id": "0ky6s72o",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 8007,
+     "durationInFrames": 1012,
+     "trimStart": 8007
+    },
+    {
+     "id": "dptxinva",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 9019,
+     "durationInFrames": 989,
+     "trimStart": 9019
+    },
+    {
+     "id": "sjjw6isg",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 10008,
+     "durationInFrames": 817,
+     "trimStart": 10008
+    },
+    {
+     "id": "iohwbkre",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 10825,
+     "durationInFrames": 937,
+     "trimStart": 10825
+    },
+    {
+     "id": "wd2uurev",
+     "type": "composition",
+     "compositionId": "HiepDinhGiongevo",
+     "from": 11762,
+     "durationInFrames": 685,
+     "trimStart": 11762
+    }
+   ]
+  },
+  {
+   "id": "y3p35r5t",
+   "kind": "audio",
+   "name": "Âm thanh 1",
+   "items": [],
+   "muted": false
+  },
+  {
+   "id": "nctm3lug",
+   "kind": "audio",
+   "name": "Giọng đọc",
+   "items": [
+    {
+     "id": "sehm87dn",
+     "type": "audio",
+     "assetId": "d57jtt0f",
+     "from": 15,
+     "durationInFrames": 239,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "blq6q4ho",
+     "type": "audio",
+     "assetId": "1el3avku",
+     "from": 258,
+     "durationInFrames": 119,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "zoviig7z",
+     "type": "audio",
+     "assetId": "y94urnne",
+     "from": 399,
+     "durationInFrames": 200,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "lq3av6tu",
+     "type": "audio",
+     "assetId": "q15bhskw",
+     "from": 603,
+     "durationInFrames": 173,
+     "trimStart": 0,
+     "volume": 1
+    }
+   ]
+  },
+  {
+   "id": "s5uy1jnx",
+   "kind": "audio",
+   "name": "Nhạc nền",
+   "items": [
+    {
+     "id": "komor5md",
+     "type": "audio",
+     "assetId": "tmrgvu1m",
+     "from": 0,
+     "durationInFrames": 792,
+     "trimStart": 0,
+     "volume": 0.16
+    }
+   ]
+  },
+  {
+   "id": "kpxhgjcs",
+   "kind": "audio",
+   "name": "Giọng đọc",
+   "items": [
+    {
+     "id": "rkg26aih",
+     "type": "audio",
+     "assetId": "frzqex2b",
+     "from": 1952,
+     "durationInFrames": 184,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "t0gaku1d",
+     "type": "audio",
+     "assetId": "0db7hukh",
+     "from": 2140,
+     "durationInFrames": 178,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "s0j73pc1",
+     "type": "audio",
+     "assetId": "yyjewgy1",
+     "from": 2322,
+     "durationInFrames": 256,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "2xl38d2n",
+     "type": "audio",
+     "assetId": "duzw86bc",
+     "from": 2582,
+     "durationInFrames": 72,
+     "trimStart": 0,
+     "volume": 1
+    },
+    {
+     "id": "7oigospq",
+     "type": "audio",
+     "assetId": "sp3t6fsp",
+     "from": 2658,
+     "durationInFrames": 114,
+     "trimStart": 0,
+     "volume": 1
+    }
+   ]
+  },
+  {
+   "id": "6bz6xus6",
+   "kind": "audio",
+   "name": "Nhạc nền",
+   "items": [
+    {
+     "id": "nkx5zya3",
+     "type": "audio",
+     "assetId": "tmrgvu1m",
+     "from": 1937,
+     "durationInFrames": 851,
+     "trimStart": 1937,
+     "volume": 0.16
+    }
+   ]
+  }
+ ]
+}

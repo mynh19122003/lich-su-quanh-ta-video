@@ -1,0 +1,1263 @@
+{
+ "total": 414.884,
+ "scenes": [
+  {
+   "id": "mo-dau",
+   "mood": "light",
+   "start": 0.0,
+   "duration": 26.412,
+   "lines": [
+    {
+     "file": "geneva/voice/00-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 7.8,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.494,
+       "text": "Năm 1954, quân và dân Việt Nam vừa thắng một trận lớn,"
+      },
+      {
+       "start": 3.494,
+       "end": 7.831,
+       "text": "đúng lúc cả thế giới đang ngồi lại với nhau để họp bàn về Đông Dương."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/00-01.mp3",
+     "who": "narrator",
+     "start": 8.6,
+     "duration": 3.816,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.862,
+       "text": "Và kết quả của cuộc họp đó là... đất nước bị chia làm đôi."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/00-02.mp3",
+     "who": "narrator",
+     "start": 13.316,
+     "duration": 6.48,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 1.647,
+       "text": "Khoan đã."
+      },
+      {
+       "start": 1.647,
+       "end": 3.881,
+       "text": "Thắng trận mà lại bị chia đôi?"
+      },
+      {
+       "start": 3.881,
+       "end": 6.462,
+       "text": "Nghe có gì đó sai sai đúng không?"
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/00-03.mp3",
+     "who": "narrator",
+     "start": 20.096,
+     "duration": 5.616,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.746,
+       "text": "Để hiểu chuyện này, chúng ta phải quay lại phòng họp ở Giơnevơ,"
+      },
+      {
+       "start": 3.746,
+       "end": 5.656,
+       "text": "và cả những năm tháng sau đó nữa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bang-den",
+   "mood": "light",
+   "start": 26.412,
+   "duration": 13.956,
+   "lines": [
+    {
+     "file": "geneva/voice/01-00.mp3",
+     "who": "teacher",
+     "start": 0.5,
+     "duration": 8.544,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 1.604,
+       "text": "Chào cả lớp."
+      },
+      {
+       "start": 1.604,
+       "end": 5.33,
+       "text": "Hôm nay chúng ta học bài: Hiệp định Giơnevơ năm 1954,"
+      },
+      {
+       "start": 5.33,
+       "end": 8.494,
+       "text": "và vì sao cuộc chiến tranh với Mỹ lại xảy ra."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/01-01.mp3",
+     "who": "narrator",
+     "start": 9.344,
+     "duration": 3.912,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.943,
+       "text": "Bài này hơi dài, nên các bạn chuẩn bị bỏng ngô đi là vừa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "phap-quay-lai",
+   "mood": "light",
+   "start": 40.368,
+   "duration": 24.184,
+   "lines": [
+    {
+     "file": "geneva/voice/02-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 6.936,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.245,
+       "text": "Tháng 9 năm 1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập,"
+      },
+      {
+       "start": 4.245,
+       "end": 6.987,
+       "text": "khai sinh nước Việt Nam Dân chủ Cộng hòa."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/02-01.mp3",
+     "who": "narrator",
+     "start": 7.736,
+     "duration": 3.456,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.491,
+       "text": "Nhưng chưa vui được bao lâu thì người Pháp quay trở lại."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/02-02.mp3",
+     "who": "phap",
+     "start": 11.492,
+     "duration": 5.064,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 1.342,
+       "text": "Bonjour!"
+      },
+      {
+       "start": 1.342,
+       "end": 3.016,
+       "text": "Tôi về rồi đây."
+      },
+      {
+       "start": 3.016,
+       "end": 5.061,
+       "text": "Thuộc địa của tôi vẫn ổn chứ?"
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/02-03.mp3",
+     "who": "vm",
+     "start": 16.856,
+     "duration": 2.088,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.117,
+       "text": "Ai mời anh về vậy?"
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/02-04.mp3",
+     "who": "narrator",
+     "start": 19.644,
+     "duration": 3.84,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.885,
+       "text": "Thế là cuộc kháng chiến chống Pháp kéo dài suốt chín năm bắt đầu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "domino",
+   "mood": "light",
+   "start": 64.552,
+   "duration": 28.368,
+   "lines": [
+    {
+     "file": "geneva/voice/03-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 5.952,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.534,
+       "text": "Trong lúc đó, ở bên kia Thái Bình Dương,"
+      },
+      {
+       "start": 2.534,
+       "end": 6.003,
+       "text": "nước Mỹ đang rất lo lắng về một thứ gọi là thuyết Đôminô."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/03-01.mp3",
+     "who": "my",
+     "start": 6.752,
+     "duration": 5.784,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 5.029,
+       "text": "Nếu Đông Dương theo cộng sản, cả Đông Nam Á sẽ đổ theo như những quân"
+      },
+      {
+       "start": 5.029,
+       "end": 5.814,
+       "text": "bài đôminô!"
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/03-02.mp3",
+     "who": "narrator",
+     "start": 12.836,
+     "duration": 8.352,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.515,
+       "text": "Vì vậy Mỹ quyết định rút ví."
+      },
+      {
+       "start": 2.515,
+       "end": 8.349,
+       "text": "Đến năm 1954, Mỹ gánh gần 80% chi phí chiến tranh của Pháp ở Đông Dương."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/03-03.mp3",
+     "who": "phap",
+     "start": 21.488,
+     "duration": 2.256,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.293,
+       "text": "Merci, anh bạn."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/03-04.mp3",
+     "who": "narrator",
+     "start": 24.044,
+     "duration": 3.624,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.665,
+       "text": "Nói cách khác: Pháp đánh, còn Mỹ trả tiền."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dien-bien-phu",
+   "mood": "tense",
+   "start": 92.92,
+   "duration": 27.828,
+   "lines": [
+    {
+     "file": "geneva/voice/04-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 7.776,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.732,
+       "text": "Đầu năm 1954, Pháp xây một tập đoàn cứ điểm cực mạnh ở lòng chảo Điện"
+      },
+      {
+       "start": 4.732,
+       "end": 7.82,
+       "text": "Biên Phủ, và tin rằng không ai có thể phá nổi."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/04-01.mp3",
+     "who": "narrator",
+     "start": 8.576,
+     "duration": 6.36,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 1.74,
+       "text": "Họ đã nhầm."
+      },
+      {
+       "start": 1.74,
+       "end": 6.358,
+       "text": "Bộ đội ta kéo pháo lên núi, đào hào bao vây và siết chặt từng cứ điểm."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/04-02.mp3",
+     "who": "narrator",
+     "start": 15.236,
+     "duration": 8.832,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 5.646,
+       "text": "Ngày 7 tháng 5 năm 1954, tướng De Castries cùng toàn bộ bộ chỉ huy bị"
+      },
+      {
+       "start": 5.646,
+       "end": 6.369,
+       "text": "bắt sống."
+      },
+      {
+       "start": 6.369,
+       "end": 8.823,
+       "text": "Chiến dịch Điện Biên Phủ toàn thắng."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/04-03.mp3",
+     "who": "phap",
+     "start": 24.368,
+     "duration": 2.76,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.801,
+       "text": "Ừm... hay là chúng ta nói chuyện hòa bình nhé?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hoi-nghi",
+   "mood": "light",
+   "start": 120.748,
+   "duration": 31.824,
+   "lines": [
+    {
+     "file": "geneva/voice/05-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 6.336,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.242,
+       "text": "Thật trùng hợp, ngay ngày hôm sau, mùng 8 tháng 5,"
+      },
+      {
+       "start": 3.242,
+       "end": 6.385,
+       "text": "hội nghị Giơnevơ bắt đầu bàn về vấn đề Đông Dương."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/05-01.mp3",
+     "who": "narrator",
+     "start": 7.136,
+     "duration": 10.104,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.726,
+       "text": "Ngồi quanh bàn có: Pháp, Việt Nam Dân chủ Cộng hòa, Liên Xô, Anh,"
+      },
+      {
+       "start": 4.726,
+       "end": 6.932,
+       "text": "Trung Quốc, Mỹ, Lào, Campuchia,"
+      },
+      {
+       "start": 6.932,
+       "end": 10.135,
+       "text": "và chính quyền Quốc gia Việt Nam của Bảo Đại."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/05-02.mp3",
+     "who": "narrator",
+     "start": 17.54,
+     "duration": 2.664,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.716,
+       "text": "Anh và Liên Xô làm đồng chủ tịch."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/05-03.mp3",
+     "who": "my",
+     "start": 20.504,
+     "duration": 4.824,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.627,
+       "text": "Tôi chỉ đến ngồi xem thôi."
+      },
+      {
+       "start": 2.627,
+       "end": 4.808,
+       "text": "Đừng để ý đến tôi."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/05-04.mp3",
+     "who": "narrator",
+     "start": 25.628,
+     "duration": 5.496,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.226,
+       "text": "Ừ, ngồi xem thôi."
+      },
+      {
+       "start": 2.226,
+       "end": 5.478,
+       "text": "Các bạn nhớ câu này nhé, lát nữa sẽ cần đến."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vi-tuyen",
+   "mood": "tense",
+   "start": 152.572,
+   "duration": 37.884,
+   "lines": [
+    {
+     "file": "geneva/voice/06-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 4.824,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.386,
+       "text": "Câu hỏi lớn nhất là: lấy đâu làm ranh giới tạm thời để quân đội hai bên"
+      },
+      {
+       "start": 4.386,
+       "end": 4.869,
+       "text": "tập kết?"
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/06-01.mp3",
+     "who": "vm",
+     "start": 5.624,
+     "duration": 2.784,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.812,
+       "text": "Chúng tôi đề nghị lấy vĩ tuyến 13."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/06-02.mp3",
+     "who": "phap",
+     "start": 8.708,
+     "duration": 3.048,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 1.332,
+       "text": "Không được."
+      },
+      {
+       "start": 1.332,
+       "end": 3.048,
+       "text": "Vĩ tuyến 18!"
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/06-03.mp3",
+     "who": "narrator",
+     "start": 12.056,
+     "duration": 7.584,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.481,
+       "text": "Hai bên giằng co suốt nhiều tuần."
+      },
+      {
+       "start": 2.481,
+       "end": 7.0,
+       "text": "Trong khi đó ở Paris, tân thủ tướng Pháp Mendès France tuyên bố một câu"
+      },
+      {
+       "start": 7.0,
+       "end": 7.573,
+       "text": "rất ngầu."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/06-04.mp3",
+     "who": "phap",
+     "start": 19.94,
+     "duration": 3.336,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.373,
+       "text": "Trong 30 ngày mà không có hòa bình, tôi sẽ từ chức!"
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/06-05.mp3",
+     "who": "narrator",
+     "start": 23.576,
+     "duration": 5.28,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.419,
+       "text": "Còn Liên Xô và Trung Quốc thì muốn sớm hạ nhiệt căng thẳng,"
+      },
+      {
+       "start": 3.419,
+       "end": 5.331,
+       "text": "không muốn cho Mỹ cái cớ nhảy vào."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/06-06.mp3",
+     "who": "tq",
+     "start": 29.156,
+     "duration": 2.928,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.957,
+       "text": "Thôi, các đồng chí nhượng bộ một chút đi."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/06-07.mp3",
+     "who": "narrator",
+     "start": 32.384,
+     "duration": 4.8,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.845,
+       "text": "Cuối cùng, các bên chốt ở vĩ tuyến 17, dọc theo dòng sông Bến Hải."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "noi-dung",
+   "mood": "light",
+   "start": 190.456,
+   "duration": 36.372,
+   "lines": [
+    {
+     "file": "geneva/voice/07-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 8.616,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 5.756,
+       "text": "Đêm 20 rạng sáng 21 tháng 7 năm 1954, hiệp định được ký kết."
+      },
+      {
+       "start": 5.756,
+       "end": 8.603,
+       "text": "Nội dung chính đại khái gồm bốn điểm."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/07-01.mp3",
+     "who": "narrator",
+     "start": 9.416,
+     "duration": 3.024,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.063,
+       "text": "Một: ngừng bắn trên toàn Đông Dương."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/07-02.mp3",
+     "who": "narrator",
+     "start": 12.74,
+     "duration": 6.12,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.162,
+       "text": "Hai: vĩ tuyến 17 chỉ là giới tuyến quân sự tạm thời,"
+      },
+      {
+       "start": 3.162,
+       "end": 6.165,
+       "text": "chứ không phải là biên giới chính trị hay lãnh thổ."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/07-03.mp3",
+     "who": "narrator",
+     "start": 19.16,
+     "duration": 4.368,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.417,
+       "text": "Ba: trong vòng 300 ngày, quân đội hai bên tập kết về hai miền."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/07-04.mp3",
+     "who": "narrator",
+     "start": 23.828,
+     "duration": 6.36,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.941,
+       "text": "Và bốn, điểm quan trọng nhất: tháng 7 năm 1956 sẽ tổng tuyển cử để"
+      },
+      {
+       "start": 4.941,
+       "end": 6.408,
+       "text": "thống nhất đất nước."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/07-05.mp3",
+     "who": "narrator",
+     "start": 30.488,
+     "duration": 5.184,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.871,
+       "text": "Một ủy ban quốc tế gồm Ấn Độ, Ba Lan và Canada sẽ giám sát việc thi"
+      },
+      {
+       "start": 4.871,
+       "end": 5.227,
+       "text": "hành."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "khong-tan-thanh",
+   "mood": "light",
+   "start": 226.828,
+   "duration": 16.552,
+   "lines": [
+    {
+     "file": "geneva/voice/08-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 7.824,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.029,
+       "text": "Nghe thì rất ổn."
+      },
+      {
+       "start": 2.029,
+       "end": 6.048,
+       "text": "Nhưng có hai bên không chịu tán thành Tuyên bố cuối cùng của hội nghị:"
+      },
+      {
+       "start": 6.048,
+       "end": 7.828,
+       "text": "đó là Mỹ, và Quốc gia Việt Nam."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/08-01.mp3",
+     "who": "my",
+     "start": 8.624,
+     "duration": 2.736,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.779,
+       "text": "Chúng tôi chỉ... ghi nhận thôi nhé."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/08-02.mp3",
+     "who": "narrator",
+     "start": 12.06,
+     "duration": 3.792,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.838,
+       "text": "Đấy, đã bảo là nhớ câu “ngồi xem thôi” rồi mà."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "300-ngay",
+   "mood": "sad",
+   "start": 243.38,
+   "duration": 23.508,
+   "lines": [
+    {
+     "file": "geneva/voice/09-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 4.104,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.139,
+       "text": "Trong 300 ngày sau đó, một cuộc chuyển dịch khổng lồ diễn ra."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/09-01.mp3",
+     "who": "narrator",
+     "start": 4.904,
+     "duration": 7.392,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.21,
+       "text": "Gần một triệu người từ miền Bắc di cư vào Nam."
+      },
+      {
+       "start": 3.21,
+       "end": 7.388,
+       "text": "Còn hàng chục nghìn cán bộ, chiến sĩ miền Nam thì tập kết ra Bắc."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/09-02.mp3",
+     "who": "vm",
+     "start": 12.596,
+     "duration": 3.672,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.708,
+       "text": "Hai năm nữa tổng tuyển cử, mình sẽ gặp lại nhau."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/09-03.mp3",
+     "who": "narrator",
+     "start": 16.568,
+     "duration": 6.24,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.423,
+       "text": "Rất nhiều người đã tin như vậy."
+      },
+      {
+       "start": 2.423,
+       "end": 6.231,
+       "text": "Họ không biết rằng cuộc chia ly ấy sẽ kéo dài hơn hai mươi năm."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "diem",
+   "mood": "light",
+   "start": 266.888,
+   "duration": 33.744,
+   "lines": [
+    {
+     "file": "geneva/voice/10-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 5.112,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 5.158,
+       "text": "Trong lúc đó, ở miền Nam, Mỹ ủng hộ một nhân vật mới: Ngô Đình Diệm."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/10-01.mp3",
+     "who": "diem",
+     "start": 5.912,
+     "duration": 4.08,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 1.73,
+       "text": "Xin chào."
+      },
+      {
+       "start": 1.73,
+       "end": 4.073,
+       "text": "Tôi là thủ tướng mới."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/10-02.mp3",
+     "who": "narrator",
+     "start": 10.292,
+     "duration": 7.68,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 5.406,
+       "text": "Năm 1955, ông Diệm tổ chức trưng cầu dân ý để phế truất Bảo Đại,"
+      },
+      {
+       "start": 5.406,
+       "end": 7.727,
+       "text": "và thắng với 98,2% số phiếu."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/10-03.mp3",
+     "who": "narrator",
+     "start": 18.272,
+     "duration": 7.92,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.587,
+       "text": "Ở Sài Gòn, số phiếu bầu cho ông còn nhiều hơn cả số cử tri đã đăng ký."
+      },
+      {
+       "start": 4.587,
+       "end": 7.909,
+       "text": "Đúng là được lòng dân, theo một cách rất... toán học."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/10-04.mp3",
+     "who": "narrator",
+     "start": 26.492,
+     "duration": 6.552,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.32,
+       "text": "Ngày 26 tháng 10 năm 1955, Việt Nam Cộng hòa ra đời,"
+      },
+      {
+       "start": 4.32,
+       "end": 6.593,
+       "text": "với ông Diệm làm tổng thống."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1956",
+   "mood": "tense",
+   "start": 300.632,
+   "duration": 32.976,
+   "lines": [
+    {
+     "file": "geneva/voice/11-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 5.904,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.082,
+       "text": "Rồi năm 1956 đến."
+      },
+      {
+       "start": 3.082,
+       "end": 5.895,
+       "text": "Đã tới lúc phải tổng tuyển cử theo hiệp định."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/11-01.mp3",
+     "who": "vm",
+     "start": 6.704,
+     "duration": 3.504,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.543,
+       "text": "Mời các anh hiệp thương để chuẩn bị tổng tuyển cử."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/11-02.mp3",
+     "who": "diem",
+     "start": 10.508,
+     "duration": 5.064,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.745,
+       "text": "Chúng tôi không ký hiệp định đó."
+      },
+      {
+       "start": 2.745,
+       "end": 5.063,
+       "text": "Không bầu cử gì cả."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/11-03.mp3",
+     "who": "narrator",
+     "start": 15.872,
+     "duration": 9.36,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 1.624,
+       "text": "Tại sao vậy?"
+      },
+      {
+       "start": 1.624,
+       "end": 5.25,
+       "text": "Chính Tổng thống Mỹ Eisenhower sau này viết trong hồi ký rằng:"
+      },
+      {
+       "start": 5.25,
+       "end": 9.344,
+       "text": "nếu bầu cử diễn ra, có lẽ khoảng 80% người dân sẽ bầu cho Hồ Chí Minh."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/11-04.mp3",
+     "who": "narrator",
+     "start": 25.532,
+     "duration": 6.744,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.395,
+       "text": "Và thế là cuộc tổng tuyển cử không bao giờ diễn ra."
+      },
+      {
+       "start": 3.395,
+       "end": 6.74,
+       "text": "Giới tuyến tạm thời dần trở thành một bức tường chia cắt."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dong-khoi",
+   "mood": "tense",
+   "start": 333.608,
+   "duration": 27.216,
+   "lines": [
+    {
+     "file": "geneva/voice/12-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 9.888,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.217,
+       "text": "Ở miền Nam, chính quyền Diệm mở chiến dịch “tố cộng, diệt cộng”."
+      },
+      {
+       "start": 4.217,
+       "end": 9.888,
+       "text": "Năm 1959, Luật 10/59 ra đời, đưa máy chém đi khắp các vùng quê."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/12-01.mp3",
+     "who": "narrator",
+     "start": 10.688,
+     "duration": 9.456,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.626,
+       "text": "Bị dồn đến đường cùng, nhân dân miền Nam đứng lên."
+      },
+      {
+       "start": 3.626,
+       "end": 7.481,
+       "text": "Năm 1960, phong trào Đồng Khởi bùng nổ ở Bến Tre,"
+      },
+      {
+       "start": 7.481,
+       "end": 9.448,
+       "text": "rồi lan ra khắp miền Nam."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/12-02.mp3",
+     "who": "narrator",
+     "start": 20.444,
+     "duration": 6.072,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.795,
+       "text": "Ngày 20 tháng 12 năm 1960, Mặt trận Dân tộc Giải phóng miền Nam Việt"
+      },
+      {
+       "start": 4.795,
+       "end": 6.107,
+       "text": "Nam được thành lập."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "my-vao",
+   "mood": "tense",
+   "start": 360.824,
+   "duration": 31.236,
+   "lines": [
+    {
+     "file": "geneva/voice/13-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 9.744,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.349,
+       "text": "Thấy đồng minh lung lay, Mỹ gửi cố vấn sang."
+      },
+      {
+       "start": 3.349,
+       "end": 8.221,
+       "text": "Đến cuối năm 1963, số cố vấn quân sự Mỹ ở miền Nam đã lên tới khoảng"
+      },
+      {
+       "start": 8.221,
+       "end": 9.726,
+       "text": "mười sáu nghìn người."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/13-01.mp3",
+     "who": "my",
+     "start": 10.544,
+     "duration": 4.944,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.397,
+       "text": "Chỉ là cố vấn thôi mà."
+      },
+      {
+       "start": 2.397,
+       "end": 4.935,
+       "text": "Cố vấn... có vũ trang thôi."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/13-02.mp3",
+     "who": "narrator",
+     "start": 15.788,
+     "duration": 9.552,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.869,
+       "text": "Năm 1964 là sự kiện Vịnh Bắc Bộ."
+      },
+      {
+       "start": 3.869,
+       "end": 9.552,
+       "text": "Và ngày 8 tháng 3 năm 1965, lính thủy đánh bộ Mỹ đổ bộ lên Đà Nẵng."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/13-03.mp3",
+     "who": "narrator",
+     "start": 25.64,
+     "duration": 4.896,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 2.031,
+       "text": "Từ chỗ chỉ ngồi xem ở Giơnevơ,"
+      },
+      {
+       "start": 2.031,
+       "end": 4.926,
+       "text": "nước Mỹ giờ đã trực tiếp bước vào cuộc chiến."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ket",
+   "mood": "light",
+   "start": 392.06,
+   "duration": 22.824,
+   "lines": [
+    {
+     "file": "geneva/voice/14-00.mp3",
+     "who": "narrator",
+     "start": 0.5,
+     "duration": 5.856,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.633,
+       "text": "Tóm lại: Hiệp định Giơnevơ chỉ chia cắt đất nước tạm thời,"
+      },
+      {
+       "start": 3.633,
+       "end": 5.887,
+       "text": "và hứa hẹn tổng tuyển cử sau hai năm."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/14-01.mp3",
+     "who": "narrator",
+     "start": 6.656,
+     "duration": 8.568,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 3.545,
+       "text": "Nhưng Mỹ và chính quyền Sài Gòn đã phá bỏ lời hứa ấy."
+      },
+      {
+       "start": 3.545,
+       "end": 7.204,
+       "text": "Đó chính là nguyên nhân dẫn đến cuộc kháng chiến chống Mỹ cứu nước,"
+      },
+      {
+       "start": 7.204,
+       "end": 8.569,
+       "text": "kéo dài hơn hai mươi năm."
+      }
+     ]
+    },
+    {
+     "file": "geneva/voice/14-02.mp3",
+     "who": "teacher",
+     "start": 15.524,
+     "duration": 6.6,
+     "subs": [
+      {
+       "start": 0.1,
+       "end": 4.292,
+       "text": "Tập sau, chúng ta sẽ tìm hiểu cuộc chiến này đã diễn ra như thế nào."
+      },
+      {
+       "start": 4.292,
+       "end": 6.55,
+       "text": "Nhớ bấm đăng ký kênh nhé!"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

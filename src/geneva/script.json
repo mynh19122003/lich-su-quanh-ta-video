@@ -1,0 +1,406 @@
+{
+  "title": "Tập 1: Hiệp định Giơnevơ 1954",
+  "voices": {
+    "narrator": {
+      "voice": "vi-VN-NamMinhNeural",
+      "rate": "+8%",
+      "pitch": "+0Hz"
+    },
+    "teacher": {
+      "voice": "vi-VN-HoaiMyNeural",
+      "rate": "+6%",
+      "pitch": "+0Hz"
+    },
+    "vm": {
+      "voice": "vi-VN-NamMinhNeural",
+      "rate": "+6%",
+      "pitch": "+10Hz"
+    },
+    "phap": {
+      "voice": "vi-VN-NamMinhNeural",
+      "rate": "+18%",
+      "pitch": "-6Hz"
+    },
+    "my": {
+      "voice": "vi-VN-NamMinhNeural",
+      "rate": "-2%",
+      "pitch": "-20Hz"
+    },
+    "tq": {
+      "voice": "vi-VN-NamMinhNeural",
+      "rate": "+12%",
+      "pitch": "+16Hz"
+    },
+    "diem": {
+      "voice": "vi-VN-NamMinhNeural",
+      "rate": "-4%",
+      "pitch": "+22Hz"
+    }
+  },
+  "scenes": [
+    {
+      "id": "mo-dau",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Năm 1954, quân và dân Việt Nam vừa thắng một trận lớn, đúng lúc cả thế giới đang ngồi lại với nhau để họp bàn về Đông Dương."
+        },
+        {
+          "who": "narrator",
+          "text": "Và kết quả của cuộc họp đó là... đất nước bị chia làm đôi.",
+          "pause": 0.6
+        },
+        {
+          "who": "narrator",
+          "text": "Khoan đã. Thắng trận mà lại bị chia đôi? Nghe có gì đó sai sai đúng không?"
+        },
+        {
+          "who": "narrator",
+          "text": "Để hiểu chuyện này, chúng ta phải quay lại phòng họp ở Giơnevơ, và cả những năm tháng sau đó nữa."
+        }
+      ]
+    },
+    {
+      "id": "bang-den",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "teacher",
+          "text": "Chào cả lớp. Hôm nay chúng ta học bài: Hiệp định Giơnevơ năm 1954, và vì sao cuộc chiến tranh với Mỹ lại xảy ra."
+        },
+        {
+          "who": "narrator",
+          "text": "Bài này hơi dài, nên các bạn chuẩn bị bỏng ngô đi là vừa."
+        }
+      ]
+    },
+    {
+      "id": "phap-quay-lai",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Tháng 9 năm 1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+        },
+        {
+          "who": "narrator",
+          "text": "Nhưng chưa vui được bao lâu thì người Pháp quay trở lại."
+        },
+        {
+          "who": "phap",
+          "text": "Bông-giua! Tôi về rồi đây. Thuộc địa của tôi vẫn ổn chứ?",
+          "subtitle": "Bonjour! Tôi về rồi đây. Thuộc địa của tôi vẫn ổn chứ?"
+        },
+        {
+          "who": "vm",
+          "text": "Ai mời anh về vậy?",
+          "pause": 0.4
+        },
+        {
+          "who": "narrator",
+          "text": "Thế là cuộc kháng chiến chống Pháp kéo dài suốt chín năm bắt đầu."
+        }
+      ]
+    },
+    {
+      "id": "domino",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Trong lúc đó, ở bên kia Thái Bình Dương, nước Mỹ đang rất lo lắng về một thứ gọi là thuyết Đôminô."
+        },
+        {
+          "who": "my",
+          "text": "Nếu Đông Dương theo cộng sản, cả Đông Nam Á sẽ đổ theo như những quân bài đôminô!"
+        },
+        {
+          "who": "narrator",
+          "text": "Vì vậy Mỹ quyết định rút ví. Đến năm 1954, Mỹ gánh gần 80% chi phí chiến tranh của Pháp ở Đông Dương."
+        },
+        {
+          "who": "phap",
+          "text": "Mẹc-xi, anh bạn.",
+          "subtitle": "Merci, anh bạn."
+        },
+        {
+          "who": "narrator",
+          "text": "Nói cách khác: Pháp đánh, còn Mỹ trả tiền."
+        }
+      ]
+    },
+    {
+      "id": "dien-bien-phu",
+      "mood": "tense",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Đầu năm 1954, Pháp xây một tập đoàn cứ điểm cực mạnh ở lòng chảo Điện Biên Phủ, và tin rằng không ai có thể phá nổi."
+        },
+        {
+          "who": "narrator",
+          "text": "Họ đã nhầm. Bộ đội ta kéo pháo lên núi, đào hào bao vây và siết chặt từng cứ điểm."
+        },
+        {
+          "who": "narrator",
+          "text": "Ngày 7 tháng 5 năm 1954, tướng Đờ Cát-xtơ-ri cùng toàn bộ bộ chỉ huy bị bắt sống. Chiến dịch Điện Biên Phủ toàn thắng.",
+          "subtitle": "Ngày 7 tháng 5 năm 1954, tướng De Castries cùng toàn bộ bộ chỉ huy bị bắt sống. Chiến dịch Điện Biên Phủ toàn thắng."
+        },
+        {
+          "who": "phap",
+          "text": "Ừm... hay là chúng ta nói chuyện hòa bình nhé?"
+        }
+      ]
+    },
+    {
+      "id": "hoi-nghi",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Thật trùng hợp, ngay ngày hôm sau, mùng 8 tháng 5, hội nghị Giơnevơ bắt đầu bàn về vấn đề Đông Dương."
+        },
+        {
+          "who": "narrator",
+          "text": "Ngồi quanh bàn có: Pháp, Việt Nam Dân chủ Cộng hòa, Liên Xô, Anh, Trung Quốc, Mỹ, Lào, Campuchia, và chính quyền Quốc gia Việt Nam của Bảo Đại."
+        },
+        {
+          "who": "narrator",
+          "text": "Anh và Liên Xô làm đồng chủ tịch."
+        },
+        {
+          "who": "my",
+          "text": "Tôi chỉ đến ngồi xem thôi. Đừng để ý đến tôi."
+        },
+        {
+          "who": "narrator",
+          "text": "Ừ, ngồi xem thôi. Các bạn nhớ câu này nhé, lát nữa sẽ cần đến."
+        }
+      ]
+    },
+    {
+      "id": "vi-tuyen",
+      "mood": "tense",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Câu hỏi lớn nhất là: lấy đâu làm ranh giới tạm thời để quân đội hai bên tập kết?"
+        },
+        {
+          "who": "vm",
+          "text": "Chúng tôi đề nghị lấy vĩ tuyến 13."
+        },
+        {
+          "who": "phap",
+          "text": "Không được. Vĩ tuyến 18!"
+        },
+        {
+          "who": "narrator",
+          "text": "Hai bên giằng co suốt nhiều tuần. Trong khi đó ở Paris, tân thủ tướng Pháp Măng-đét Phrăng-xơ tuyên bố một câu rất ngầu.",
+          "subtitle": "Hai bên giằng co suốt nhiều tuần. Trong khi đó ở Paris, tân thủ tướng Pháp Mendès France tuyên bố một câu rất ngầu."
+        },
+        {
+          "who": "phap",
+          "text": "Trong 30 ngày mà không có hòa bình, tôi sẽ từ chức!"
+        },
+        {
+          "who": "narrator",
+          "text": "Còn Liên Xô và Trung Quốc thì muốn sớm hạ nhiệt căng thẳng, không muốn cho Mỹ cái cớ nhảy vào."
+        },
+        {
+          "who": "tq",
+          "text": "Thôi, các đồng chí nhượng bộ một chút đi."
+        },
+        {
+          "who": "narrator",
+          "text": "Cuối cùng, các bên chốt ở vĩ tuyến 17, dọc theo dòng sông Bến Hải."
+        }
+      ]
+    },
+    {
+      "id": "noi-dung",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Đêm 20 rạng sáng 21 tháng 7 năm 1954, hiệp định được ký kết. Nội dung chính đại khái gồm bốn điểm."
+        },
+        {
+          "who": "narrator",
+          "text": "Một: ngừng bắn trên toàn Đông Dương."
+        },
+        {
+          "who": "narrator",
+          "text": "Hai: vĩ tuyến 17 chỉ là giới tuyến quân sự tạm thời, chứ không phải là biên giới chính trị hay lãnh thổ."
+        },
+        {
+          "who": "narrator",
+          "text": "Ba: trong vòng 300 ngày, quân đội hai bên tập kết về hai miền."
+        },
+        {
+          "who": "narrator",
+          "text": "Và bốn, điểm quan trọng nhất: tháng 7 năm 1956 sẽ tổng tuyển cử để thống nhất đất nước."
+        },
+        {
+          "who": "narrator",
+          "text": "Một ủy ban quốc tế gồm Ấn Độ, Ba Lan và Ca-na-đa sẽ giám sát việc thi hành.",
+          "subtitle": "Một ủy ban quốc tế gồm Ấn Độ, Ba Lan và Canada sẽ giám sát việc thi hành."
+        }
+      ]
+    },
+    {
+      "id": "khong-tan-thanh",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Nghe thì rất ổn. Nhưng có hai bên không chịu tán thành Tuyên bố cuối cùng của hội nghị: đó là Mỹ, và Quốc gia Việt Nam."
+        },
+        {
+          "who": "my",
+          "text": "Chúng tôi chỉ... ghi nhận thôi nhé.",
+          "pause": 0.4
+        },
+        {
+          "who": "narrator",
+          "text": "Đấy, đã bảo là nhớ câu “ngồi xem thôi” rồi mà."
+        }
+      ]
+    },
+    {
+      "id": "300-ngay",
+      "mood": "sad",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Trong 300 ngày sau đó, một cuộc chuyển dịch khổng lồ diễn ra."
+        },
+        {
+          "who": "narrator",
+          "text": "Gần một triệu người từ miền Bắc di cư vào Nam. Còn hàng chục nghìn cán bộ, chiến sĩ miền Nam thì tập kết ra Bắc."
+        },
+        {
+          "who": "vm",
+          "text": "Hai năm nữa tổng tuyển cử, mình sẽ gặp lại nhau."
+        },
+        {
+          "who": "narrator",
+          "text": "Rất nhiều người đã tin như vậy. Họ không biết rằng cuộc chia ly ấy sẽ kéo dài hơn hai mươi năm."
+        }
+      ]
+    },
+    {
+      "id": "diem",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Trong lúc đó, ở miền Nam, Mỹ ủng hộ một nhân vật mới: Ngô Đình Diệm."
+        },
+        {
+          "who": "diem",
+          "text": "Xin chào. Tôi là thủ tướng mới."
+        },
+        {
+          "who": "narrator",
+          "text": "Năm 1955, ông Diệm tổ chức trưng cầu dân ý để phế truất Bảo Đại, và thắng với 98,2% số phiếu."
+        },
+        {
+          "who": "narrator",
+          "text": "Ở Sài Gòn, số phiếu bầu cho ông còn nhiều hơn cả số cử tri đã đăng ký. Đúng là được lòng dân, theo một cách rất... toán học."
+        },
+        {
+          "who": "narrator",
+          "text": "Ngày 26 tháng 10 năm 1955, Việt Nam Cộng hòa ra đời, với ông Diệm làm tổng thống."
+        }
+      ]
+    },
+    {
+      "id": "1956",
+      "mood": "tense",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Rồi năm 1956 đến. Đã tới lúc phải tổng tuyển cử theo hiệp định."
+        },
+        {
+          "who": "vm",
+          "text": "Mời các anh hiệp thương để chuẩn bị tổng tuyển cử."
+        },
+        {
+          "who": "diem",
+          "text": "Chúng tôi không ký hiệp định đó. Không bầu cử gì cả."
+        },
+        {
+          "who": "narrator",
+          "text": "Tại sao vậy? Chính Tổng thống Mỹ Ai-xen-hao sau này viết trong hồi ký rằng: nếu bầu cử diễn ra, có lẽ khoảng 80% người dân sẽ bầu cho Hồ Chí Minh.",
+          "subtitle": "Tại sao vậy? Chính Tổng thống Mỹ Eisenhower sau này viết trong hồi ký rằng: nếu bầu cử diễn ra, có lẽ khoảng 80% người dân sẽ bầu cho Hồ Chí Minh."
+        },
+        {
+          "who": "narrator",
+          "text": "Và thế là cuộc tổng tuyển cử không bao giờ diễn ra. Giới tuyến tạm thời dần trở thành một bức tường chia cắt."
+        }
+      ]
+    },
+    {
+      "id": "dong-khoi",
+      "mood": "tense",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Ở miền Nam, chính quyền Diệm mở chiến dịch tố cộng, diệt cộng. Năm 1959, luật mười năm chín ra đời, đưa máy chém đi khắp các vùng quê.",
+          "subtitle": "Ở miền Nam, chính quyền Diệm mở chiến dịch “tố cộng, diệt cộng”. Năm 1959, Luật 10/59 ra đời, đưa máy chém đi khắp các vùng quê."
+        },
+        {
+          "who": "narrator",
+          "text": "Bị dồn đến đường cùng, nhân dân miền Nam đứng lên. Năm 1960, phong trào Đồng Khởi bùng nổ ở Bến Tre, rồi lan ra khắp miền Nam."
+        },
+        {
+          "who": "narrator",
+          "text": "Ngày 20 tháng 12 năm 1960, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam được thành lập."
+        }
+      ]
+    },
+    {
+      "id": "my-vao",
+      "mood": "tense",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Thấy đồng minh lung lay, Mỹ gửi cố vấn sang. Đến cuối năm 1963, số cố vấn quân sự Mỹ ở miền Nam đã lên tới khoảng mười sáu nghìn người."
+        },
+        {
+          "who": "my",
+          "text": "Chỉ là cố vấn thôi mà. Cố vấn... có vũ trang thôi."
+        },
+        {
+          "who": "narrator",
+          "text": "Năm 1964 là sự kiện Vịnh Bắc Bộ. Và ngày 8 tháng 3 năm 1965, lính thủy đánh bộ Mỹ đổ bộ lên Đà Nẵng."
+        },
+        {
+          "who": "narrator",
+          "text": "Từ chỗ chỉ ngồi xem ở Giơnevơ, nước Mỹ giờ đã trực tiếp bước vào cuộc chiến."
+        }
+      ]
+    },
+    {
+      "id": "ket",
+      "mood": "light",
+      "lines": [
+        {
+          "who": "narrator",
+          "text": "Tóm lại: Hiệp định Giơnevơ chỉ chia cắt đất nước tạm thời, và hứa hẹn tổng tuyển cử sau hai năm."
+        },
+        {
+          "who": "narrator",
+          "text": "Nhưng Mỹ và chính quyền Sài Gòn đã phá bỏ lời hứa ấy. Đó chính là nguyên nhân dẫn đến cuộc kháng chiến chống Mỹ cứu nước, kéo dài hơn hai mươi năm."
+        },
+        {
+          "who": "teacher",
+          "text": "Tập sau, chúng ta sẽ tìm hiểu cuộc chiến này đã diễn ra như thế nào. Nhớ bấm đăng ký kênh nhé!"
+        }
+      ]
+    }
+  ]
+}
