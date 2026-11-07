@@ -31,7 +31,41 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Trình dựng tự tìm Python (`python`, `python3`). Nếu dùng môi trường ảo, chạy trình dựng trong cùng cửa sổ đã `source .venv/bin/activate`, hoặc đặt `PYTHON=$(pwd)/.venv/bin/python`.
+Trình dựng tự tìm Python (`python`, `py`, `python3`). Nếu dùng môi trường ảo, chạy trình dựng trong cùng cửa sổ đã `source .venv/bin/activate`, hoặc đặt `PYTHON=$(pwd)/.venv/bin/python`.
+
+## Cài trên Windows
+
+Mở **PowerShell** (không cần quyền Administrator):
+
+```powershell
+# 1. Công cụ cần có (đóng rồi mở lại PowerShell sau bước này để nhận PATH mới)
+winget install Git.Git OpenJS.NodeJS.LTS Python.Python.3.12 Gyan.FFmpeg
+
+# 2. Lấy mã nguồn
+git clone https://github.com/mynh19122003/lich-su-quanh-ta-video.git
+cd lich-su-quanh-ta-video
+
+# 3. Thư viện Node (Remotion tự tải bản ffmpeg cho Windows)
+npm install
+
+# 4. Thư viện Python
+py -m venv .venv
+.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
+
+Chạy trình dựng với Python của môi trường ảo (không cần `Activate.ps1`, nên không phải đổi Execution Policy):
+
+```powershell
+$env:PYTHON = "$PWD\.venv\Scripts\python.exe"
+npm run editor
+```
+
+Lưu ý trên Windows:
+
+- Các lệnh `python3 scripts/…` ở phần dưới, trên Windows gõ `.venv\Scripts\python.exe scripts\…` (hoặc `py scripts\…` nếu cài thư viện thẳng vào Python chung).
+- Nếu chữ tiếng Việt in ra cửa sổ bị lỗi, chạy `chcp 65001` trước, hoặc đặt `$env:PYTHONUTF8 = "1"`.
+- `torch` (cho phụ đề tự động và tách giọng) khá nặng, khoảng 200 MB trở lên. Nếu chỉ cần giọng đọc và xuất video, có thể bỏ 3 dòng cuối trong `requirements.txt`.
+- Giữ đường dẫn thư mục dự án không quá sâu (ví dụ `D:\Code\Video`) để tránh lỗi đường dẫn dài của Windows khi `npm install`.
 
 ## Chạy
 
